@@ -1,0 +1,198 @@
+RefCode	Page	Figure	SampleName	FileName	URL
+Bishop_etal-PSS(2002)				897S291	
+Bishop_etal-PSS(2002)				897S292	
+Bishop_etal-PSS(2002)				897S293	
+Bishop_etal-PSS(2002)				897S294	
+Bishop_etal-PSS(2002)				397F188	
+Bishop_etal-PSS(2002)				397F189	
+Bishop_etal-PSS(2002)				1198S338	
+Bishop_etal-PSS(2002)				1198S339	
+Bishop_etal-PSS(2002)				1099S295	
+Bishop_etal-PSS(2002)				1099S296	
+Bishop_etal-PSS(2002)				1099S297	
+Fischer-PhD3(1995)	161	12	61221 bulk	CALS65	
+Fischer-PhD3(1995)	161	12	64801 bulk	CALS66	
+Fischer-PhD3(1995)	161	12	67701 bulk	CALS67	
+Fischer-PhD3(1995)	161	12	60051 bulk	CALS69	
+Fischer-PhD3(1995)	162	13a	61221 500-1000um	CBLS65
+Fischer-PhD3(1995)	162	13a	61221 250-500um	CCLS65
+Fischer-PhD3(1995)	162	13a	61221 150-250um	CDLS65
+Fischer-PhD3(1995)	162	13a	61221 90-150um	CELS65
+Fischer-PhD3(1995)	162	13a	61221 45-90um	CFLS65
+Fischer-PhD3(1995)	162	13a	61221 20-45um	CGLS65
+Fischer-PhD3(1995)	162	13a	61221 10-20um	CILS65
+Fischer-PhD3(1995)	162	13a	61221 <10um	CJLS65
+Fischer-PhD3(1995)	162	13b	67701 500-1000um	CBLS67
+Fischer-PhD3(1995)	162	13b	67701 250-500um	CCLS67
+Fischer-PhD3(1995)	162	13b	67701 150-250um	CDLS67
+Fischer-PhD3(1995)	162	13b	67701 90-150um	CELS67
+Fischer-PhD3(1995)	162	13b	67701 45-90um	CFLS67
+Fischer-PhD3(1995)	162	13b	67701 20-45um	CGLS67
+Fischer-PhD3(1995)	162	13b	67701 10-20um	CILS67
+Fischer-PhD3(1995)	162	13b	67701 <10um	CJLS67
+Fischer-PhD3(1995)	162	13c	64801 500-1000um	CBLS66
+Fischer-PhD3(1995)	162	13c	64801 250-500um	CCLS66
+Fischer-PhD3(1995)	162	13c	64801 150-250um	CDLS66
+Fischer-PhD3(1995)	162	13c	64801 90-150um	CELS66
+Fischer-PhD3(1995)	162	13c	64801 45-90um	CFLS66
+Fischer-PhD3(1995)	162	13c	64801 20-45um	CGLS66
+Fischer-PhD3(1995)	162	13c	64801 10-20um	CILS66
+Fischer-PhD3(1995)	162	13c	64801 <10um	CJLS66
+Fischer-PhD3(1995)	164	15	68501 bulk	C1LS57
+Fischer-PhD3(1995)	164	15	61241 bulk	CALR07
+Fischer-PhD3(1995)	164	15	67941 bulk	CALS81
+Fischer-PhD3(1995)	165	16	14141 bulk	C1LS50
+Fischer-PhD3(1995)	165	16	14148 bulk	C1LS54
+Fischer-PhD3(1995)	165	16	14149 bulk	CALS70
+Fischer-PhD3(1995)	166	17	12024 bulk	C1LS62
+Fischer-PhD3(1995)	166	17	12030 bulk	CALS76
+Fischer-PhD3(1995)	166	17	12023 bulk	CALS78
+Hiroi_Sasaki-MPS(2001)	1593	6a	Chromite	C1PC21
+Hiroi_etal-MPS(1996)	322	1a	Orgueil	NCMB57
+Hiroi_etal-MPS(1996)	322	1a	Renazzo	NCMB58
+Hiroi_etal-MPS(1996)	322	1a	ALH83100	NCMB51
+Hiroi_etal-MPS(1996)	322	1a	Bells	NCMB53
+Hiroi_etal-MPS(1996)	322	1a	Y-86720	NCMB20
+Hiroi_etal-MPS(1996)	322	1a	B-7904	NCMB18
+Hiroi_etal-MPS(1996)	322	1a	Y-82162	NCMB19
+Hiroi_etal-MPS(1996)	322	1a	Y-693	NCMB77
+Hiroi_etal-MPS(1996)	322	1a	Allende	NCMB63
+Hiroi_etal-MPS(1996)	322	1b	Murchison (unheated)	NCMB64
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 400C	NCMB64A
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 500C	NCMB64B
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 600C	NCMB64C
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 700C	NCMB64D
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 800C	NCMB64E	
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 900C	NCMB64F	
+Hiroi_etal-MPS(1996)	322	1b	Murchison heated at 1000C	NCMB64G	
+Hiroi_etal-MPS(1996)	324	3	Y-82162	NCMB19	
+Hiroi_etal-MPS(1996)	324	3	B-7904	NCMB18	
+Hiroi_etal-MPS(1996)	324	3	LEW90500	NCMB54	
+Hiroi_etal-Sci(2001)	2235	1	Tagish Lake meteorite	C2MT11	
+Hiroi_etal-Sci(2001)	2236	3	Tagish Lake meteorite	LCMT11	
+Pieters-RGCA14(1993)	313	14.1	12063 Cpx	S1LS09	
+Pieters-RGCA14(1993)	313	14.1	15415 Plag	S1LS11	
+Pieters-RGCA14(1993)	313	14.1	78235 Opx	S1LS12	
+Pieters-RGCA14(1993)	313	14.1	72415 Olv+Sp	S2LS03	
+Pieters-RGCA14(1993)	314	14.3	62231 Highland soil	CLS188	
+Pieters-RGCA14(1993)	314	14.3	12063 Mare rock	S1LS14	
+Pieters-RGCA14(1993)	314	14.3	67455 Highland rock	S3LS10	
+Pieters-RGCA14(1993)	314	14.3	12070 Mare soil	SLS107	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 50/50	C1XP20	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 60/40	C1XP21	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 40/60	C1XP22	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 75/25	C1XP23	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 25/75	C1XP24	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 85/15	C1XP25	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 15/85	C1XP26	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 100/0	C3PE31	
+Pieters-RGCA14(1993)	316	14.5	OPX/CPX = 0/100	C3PP22	
+Pieters-RGCA14(1993)	321	14.9	74001 black beads	SLS006	
+Pieters-RGCA14(1993)	321	14.9	74220 orange glass	SLS441	
+Pieters-RGCA14(1993)	321	14.9	15401 green glass	SLS453	
+Hiroi_Pieters-JGR(1994)	10868	1	Plagioclase <25 um	CAPA60	
+Hiroi_Pieters-JGR(1994)	10868	1	Plagioclase 25-45 um	CBPA60	
+Hiroi_Pieters-JGR(1994)	10868	1	Plagioclase 45-75 um	CCPA60	
+Hiroi_Pieters-JGR(1994)	10868	1	Pyroxene <25 um	CAPE41	
+Hiroi_Pieters-JGR(1994)	10868	1	Pyroxene 25-45 um	CBPE41
+Hiroi_Pieters-JGR(1994)	10868	1	Pyroxene 45-75 um	C3PE41
+Hiroi_Pieters-JGR(1994)	10868	1	Olivine <25 um	CAPO81
+Hiroi_Pieters-JGR(1994)	10868	1	Olivine 25-45 um	CBPO81
+Hiroi_Pieters-JGR(1994)	10868	1	Olivine 45-75 um	CCPO81
+Hiroi_Pieters-JGR(1994)	10869	2	66.7/16.7/16.7 Olivine/Pyroxene/Plagioclase 	C1XT33
+Hiroi_Pieters-JGR(1994)	10869	2	16.7/66.7/16.7 Olivine/Pyroxene/Plagioclase 	C1XT34
+Hiroi_Pieters-JGR(1994)	10869	2	16.7/16.7/66.7 Olivine/Pyroxene/Plagioclase 	C1XT35
+Hiroi_Pieters-JGR(1994)	10869	2	33.3/33.3/33.3 Olivine/Pyroxene/Plagioclase 	C1XT36
+Hiroi_Pieters-JGR(1994)	10869	2	16.7/41.7/41.7 Olivine/Pyroxene/Plagioclase 	C1XT37
+Hiroi_Pieters-JGR(1994)	10869	2	41.7/16.7/41.7 Olivine/Pyroxene/Plagioclase 	C1XT38
+Hiroi_Pieters-JGR(1994)	10869	2	41.7/41.7/16.7 Olivine/Pyroxene/Plagioclase 	C1XT39
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 4:1:1	C1XT47
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 1:4:1	C1XT48
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 1:1:4	C1XT49
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 1:1:1	C1XT50
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 2:5:5	C1XT51						
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 5:2:5	C1XT52						
+Hiroi_Pieters-JGR(1994)	10869	2	Pyroxene:Olivine:Plagioclase = 5:5:2	C1XT53						
+Hiroi_Pieters-JGR(1994)	10874	10	75/25 Olivine/Plagioclase 	C1XT24						
+Hiroi_Pieters-JGR(1994)	10874	10	50/50 Olivine/Plagioclase 	C1XT25						
+Hiroi_Pieters-JGR(1994)	10874	10	25/75 Olivine/Plagioclase 	C1XT26						
+Hiroi_Pieters-JGR(1994)	10874	10	25/75 Pyroxene/Plagioclase	C1XT27						
+Hiroi_Pieters-JGR(1994)	10874	10	50/50 Pyroxene/Plagioclase	C1XT28						
+Hiroi_Pieters-JGR(1994)	10874	10	75/25 Pyroxene/Plagioclase	C1XT29						
+Hiroi_Pieters-JGR(1994)	10874	10	25/75 Olivine/Pyroxene	C1XT30						
+Hiroi_Pieters-JGR(1994)	10874	10	50/50 Olivine/Pyroxene	C1XT31						
+Hiroi_Pieters-JGR(1994)	10874	10	75/25 Olivine/Pyroxene	C1XT32						
+Hiroi_etal-Met(1994)	394	1	Millbillillie eucrite <25 um	CAMB69						
+Hiroi_etal-Met(1994)	394	1	Juvinas eucrite <25 um	CAMB70						
+Hiroi_etal-Met(1994)	394	1	Y-74450 eucrite <25 um	CAMB71						
+Hiroi_etal-Met(1994)	394	1	EET87503 howardite <25 um	CAMB68						
+Hiroi_etal-Met(1994)	394	1	Y-74013 diogenite <25 um	CAMB73						
+Hiroi_etal-Met(1994)	394	1	Y-75032 diogenite <25 um	CAMB74						
+Hiroi_etal-Met(1994)	395	2	EET87503 howardite <25 um	CAMB68						
+Hiroi_etal-Met(1994)	395	2	EET87503 howardite 25-45 um	CBMB68						
+Hiroi_etal-Met(1994)	395	2	EET87503 howardite 45-75 um	CCMB68						
+Hiroi_etal-Met(1994)	395	2	EET87503 howardite 75-125 um	CDMB68						
+Hiroi_etal-Sci(1993)	1016	1b	Orgueil <100 um	C1MB57						
+Hiroi_etal-Sci(1993)	1016	1b	Ivuna <125 um	C1MB60						
+Hiroi_etal-Sci(1993)	1016	1b	ALH83100 <100 um	C1MB51						
+Hiroi_etal-Sci(1993)	1016	1b	ALH84029 <100 um	C1MB52						
+Hiroi_etal-Sci(1993)	1016	1b	Murray <100 um	C1MB56						
+Hiroi_etal-Sci(1993)	1016	1b	Murchison <125 um	C1MB64						
+Hiroi_etal-Sci(1993)	1016	1b	Mighei <100 um	C1MB55						
+Hiroi_etal-Sci(1993)	1016	1b	Cold Bokkeveld <125 um	C1MB61						
+Hiroi_etal-Sci(1993)	1016	1b	Bells <100 um	C1MB53						
+Hiroi_etal-Sci(1993)	1016	1b	Nogoya	C2MB62						
+Hiroi_etal-Sci(1993)	1016	1b	LEW90500 <100 um	C1MB54						
+Hiroi_etal-Sci(1993)	1016	1b	ALHA81002 <100 um	C1MB50						
+Hiroi_etal-Sci(1993)	1016	1b	Renazzo <100 um	C1MB58						
+Hiroi_etal-Sci(1993)	1016	1b	Allende <125 um	C2MB63						
+Hiroi_etal-Sci(1993)	1016	1b	Vigarano <100 um	C1MB59						
+Hiroi_etal-Sci(1993)	1016	1b	ALH84028 <125 um	C1MB78						
+Hiroi_etal-Sci(1993)	1016	1b	ALH85002 <125 um 	C2MB81						
+Hiroi_etal-Sci(1993)	1016	1b	Y-693 <125 um	C1MB77						
+Hiroi_etal-Sci(1993)	1016	1b	B-7904 <125 um	C2MB18						
+Hiroi_etal-Sci(1993)	1016	1b	Y-82162 <125 um	C1MB19						
+Hiroi_etal-Sci(1993)	1016	1b	Y-86720 <125 um	C1MB20						
+Hiroi_etal-Sci(1993)	1016	2	Y-86720 <125 um	C1MB20						
+Hiroi_etal-Sci(1993)	1016	2	B-7904 <125 um	C2MB18						
+Hiroi_etal-Sci(1993)	1016	2	Y-82162 <125 um	C1MB19						
+Hiroi_etal-Sci(1993)	1016	1b	Murchison (unheated) <63 um	C3MB64						
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 400C <63 um	CAMB64						
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 500C <63 um	CBMB64
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 600C <63 um	CCMB64
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 700C <63 um	CDMB64
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 800C <63 um	CEMB64
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 900C <63 um	CFMB64
+Hiroi_etal-Sci(1993)	1016	1b	Murchison heated at 1000C <63 um	CGMB64
+Klima_etal-MAPS(2007)	241	1b	001 - En 100 <45 um	C1DL01A
+Klima_etal-MAPS(2007)	241	1b	064 - En 97.5 Fs 2.5 <45 um	C1DL64A
+Klima_etal-MAPS(2007)	241	1b	065 - En 90 Fs 10 <45 um	C1DL65A
+Klima_etal-MAPS(2007)	241	1b	002 - En 80 Fs 20 <45 um	C1DL02A
+Klima_etal-MAPS(2007)	241	1b	003 - En 75 Fs 25 <45 um	C1DL03A
+Klima_etal-MAPS(2007)	241	1b	026 - En 70 Fs 30 <45 um	C1DL26A
+Klima_etal-MAPS(2007)	241	1b	004 - En 50 Fs 50 <45 um	C1DL04A
+Klima_etal-MAPS(2007)	241	1b	025 - En 35 Fs 65 <45 um	C1DL25A
+Klima_etal-MAPS(2007)	241	1b	023 - En 30 Fs 70 <45 um	C1DL23A
+Klima_etal-MAPS(2007)	241	1b	028 - En 25 Fs 75 <45 um	C1DL28A
+Klima_etal-MAPS(2007)	241	1b	024 - En 17 Fs 83 <45 um	C1DL24A
+Klima_etal-MAPS(2007)	241	1b	021 En 8 Fs 92 <45 um	C1DL21A
+Klima_etal-MAPS(2007)	241	1b	061 - Fs 100 <45 um	C1DL61A
+Klima_etal-MAPS(2007)	241	1c	001 - En 100 <45 um	C3DL01A
+Klima_etal-MAPS(2007)	241	1c	064 - En 97.5 Fs 2.5 <45 um	C3DL64A
+Klima_etal-MAPS(2007)	241	1c	065 - En 90 Fs 10 <45 um	C3DL65A
+Klima_etal-MAPS(2007)	241	1c	002 - En 80 Fs 20 <45 um	C3DL02A
+Klima_etal-MAPS(2007)	241	1c	003 - En 75 Fs 25 <45 um	C3DL03A
+Klima_etal-MAPS(2007)	241	1c	026 - En 70 Fs 30 <45 um	C3DL26A
+Klima_etal-MAPS(2007)	241	1c	004 - En 50 Fs 50 <45 um	C3DL04A
+Klima_etal-MAPS(2007)	241	1c	025 - En 35 Fs 65 <45 um	C3DL25A
+Klima_etal-MAPS(2007)	241	1c	023 - En 30 Fs 70 <45 um	C3DL23A
+Klima_etal-MAPS(2007)	241	1c	028 - En 25 Fs 75 <45 um	C3DL28A
+Klima_etal-MAPS(2007)	241	1c	024 - En 17 Fs 83 <45 um	C3DL24A
+Klima_etal-MAPS(2007)	241	1c	021 En 8 Fs 92 <45 um	C3DL21A
+Klima_etal-MAPS(2007)	241	1c	061 - Fs 100 <45 um	C3DL61A
+Dyar_etal-AmMin(2009)	893	"8a,c"	Fo 0 Bristol	C1DD46
+Dyar_etal-AmMin(2009)	893	"8a,c"	Fo 0 SUNY	C1DD98
+Dyar_etal-AmMin(2009)	893	"8a,c"	Fo 0 SUNY-P	C1DD98P
+Dyar_etal-AmMin(2009)	893	"8b,d"	Fo 0 Bristol	BKR1DD046
+Dyar_etal-AmMin(2009)	893	"8b,d"	Fo 0 SUNY	BKR1DD098
+Dyar_etal-AmMin(2009)	893	"8b,d"	Fo 0 SUNY-P	BKR1DD098P

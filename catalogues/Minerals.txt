@@ -1,0 +1,145 @@
+Mineral Abbreviation	Mineral Name					
+ACT	Actinolite					
+AEG	Aegirine					
+ALA	Alanine			   	   	   
+ALB	Albite			   	   	   
+ALL	Allophane					
+ALM	Almandine					
+ALU	Alunite			   	   	   
+AMP	Amphibole			   	   	   
+ANC	Anorthoclase					
+AND	Andesine					
+ANN	Annite					
+ANO	Anorthite		   	   	   	   
+ANT	Antigorite					
+APA	Apatite					
+ART	Artinite					
+ASI	Amorphous Silica					
+ATH	Anthophylite	   	   	   	   	   
+ATP	Attapulgite					
+AUG	Augite	   	   	   	   	   
+BAS	Bassanite					
+BIO 	Biotite	   	   	   	   	   
+BIT	Bitumen	   				
+BRG	Brugnatellite					
+BRZ	Bronzite	   				
+CAL	Calcite	   				
+CAR	Carbon	   				
+CD 	Diamond	   				
+CEL	Celadonite					
+CEM	Iron Carbide					
+CG 	Graphite					
+CHL	Chlorite					
+CHM	Chamosite					
+CHR	Chromite					
+CHY	Chrysocolla					
+CLC	Clinochlore					
+CLY	Clay Minerals					
+CPX	Clinopyroxene					
+CRI	Cryolite					
+CRS	Cronstedtite					
+CTE	Coal Tar Extract					
+CYS	Chrysotile					
+DIA	Diaspore					
+DIO	Diopside					
+ENS 	Enstatite					
+EPS	Epsomite					
+FAS	Fassaite					
+FAY	Fayalite					
+FE 	Iron					
+FEN	FeNi metal					
+FEO	Iron Oxide					
+FES	Troilite					
+FHD	Ferrihydrite					
+FMS	Iron Manganese Sulfide					
+FOR	Forsterite					
+FPX	Fe-pyroxene					
+FRA 	Franklinite					
+FS	Ferrosilite					
+FSP	Feldspar					
+GAH 	Gahnite					
+GAR	Garnet					
+GLS 	Glass					
+GLU 	Glaucophane					
+GRA	Graftonite					
+GYP	Gypsum					
+HAL	Halloysite					
+HBD 	Hornblende					
+HCP	High-Ca Pyroxene					
+HED 	Hedenbergite					
+HEM	Hematite					
+HERC	Hercynite					
+HEU	Heulandite					
+HIS	Hisingerite					
+HMG	Hydromagnesite					
+HYP	Hypersthene					
+ILL	Illite					
+ILM	Ilmenite					
+IOR	Iron Ore					
+JAD	Jadeite					
+KAO	Kaolinite					
+KER	Kerite					
+KFS	K-Feldspar					
+KGL	K-rich Glass					
+KSI	K-silicate					
+LAB	Labradorite					
+LCP	Low-Ca Pyroxene					
+LIM	Limonite					
+LIT	Lithiophilite					
+MAG	Magnetite					
+MAN	Manasseite					
+MAS	Mask					
+MEL 	Melilite					
+MET	Metal					
+MGN	Magnesite					
+MHT	Magnesiohastingsite					
+MIC	Microcline					
+MON	Montmorillonite					
+MUS	Muscovite					
+NON	Nontronite					
+OLG	Oligoclase					
+OLV	Olivine					
+OPA	Opal					
+OPQ	Opaque phases					
+OPX 	Orthopyroxene					
+ORG	Organic					
+ORT	Orthoclase					
+PAL	Palagonite Tuff 					
+PER 	Peridot					
+PHL	Phlogopite					
+PHO	Phosphates					
+PIG	Pigeonite					
+PLE 	Pleonaste					
+PLG	Plagioclase					
+PYH	Pyrrhotite					
+PYM	Pyroxmangite					
+PYR	Pyrophyllite					
+PYT	Pyrite					
+PYX	Pyroxene					
+QTZ	Quartz					
+QNC	Quench Crystals					
+RIE 	Riebeckite					
+RUT	Rutile					
+SAN	Sanadine					
+SAP	Saponite					
+SAR	Sarcopside					
+SBC	Subbituminous Coal					
+SER	Serpentine					
+SFD	Sulfide					
+SIC	Silicon Carbide					
+SIL	Silica					
+SOS	Sodium Silicate					
+SPI 	Spinel					
+SPO	Spodumene					
+THE	Thermonatrite					
+TLC	Talc					
+TMG	Titanomagnetite					
+TRD	Tridymite					
+TRE	Tremolite					
+TRN	Trona					
+TRO	Troilite					
+TRP	Triphyllite					
+VER	Vermiculite					
+WOL	Wollastonite					
+WUS	Wustite					
+ZEO	Zeolite					

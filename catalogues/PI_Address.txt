@@ -1,0 +1,341 @@
+PI Code	Last Name	Full Name 	Affiliation 	Mailing Address 	"City, State Zip Code"	E-Mail Address	Phone Number	Fax Number
+A1G	Gale	Allison Gale	Smithsonian Institution	Dept. of Mineral Sciences	"Washington, DC 20560-0117"			
+A1S	Smirnov	Alexander Smirnov	State University of New York	Dept. of Geosciences	"Stony Brook, NY 11794-2100"	asmirnov@ms.cc.sunysb.edu		
+A1W	Wittmann	Axel Wittmann	Lunar and Planetary Institute 	3600 Bay Area Blvd.	"Houston, TX 77058"	witmann@lpi.usra.edu		
+AAO	Ovcharenko	Andrey A. Ovcharenko	Astronomical Institute	35 Sumskaya Street	"Kharkov, 61022, Ukraine"	ovcharenko@astron.kharkov.ua		
+ACD	Davis	April C. Davis	SETI Institute / Cal Poly Pomona	"457 Sierra Vista Ave, Apt. 11"	"Mountain View, CA 94043"	aprilc.davis@gmail.com		
+ACM	McAdam	Amy C. McAdam	NASA Goddard Space Flight Center	Mail Stop 699.0	"Greenbelt, MD 20771 "	amy.mcadam-1@nasa.gov		
+ADP	Post	Alice D. Post 	(Brown Univ.) 	(Box 1846)	"(Providence, RI 02912)"			
+AEA	Alice	Alice E. Alpert	Brown University	Department of Geological Sciences	"Providence, RI 02912"	alice_alpert@brown.edu		
+AEP	Petropoulos 	Anastassios E. Petropoulos	MIT 	428 Memorial Drive	"Cambridge, MA 02139 "			
+AHL	Levine	Alan Levine 	Arizona State University	Dept. of Geology	"Tempe, AZ85287"			
+AHT	Treiman	Allan H. Treiman	Lunar and Planetary Institute 	3600 Bay Area Blvd	"Houston, TX 77058-1113"	treiman@lpi.usra.edu		
+AJB	Brown	Adrian J. Brown	SETI / NASA-ARC	515 N. Whisman Road	"Mountain View, CA 94043"	abrown@seti.org		
+AKH	Hasberg	Ascelina K. M.	"Institute of Mineralogy and Geology, University of Cologne"	Zuelpicher Str. 49a	"D-50674 Cologne, Germany"	"hasberg.ascelina@gmx.de, hasberg.ascelina@uni-koeln.de"		
+AKW	Weber	Andrea K. Weber	Brown University	Box 7526	"Providence, RI 02912"	andrea_weber@brown.edu		
+ALR	Roach	Angela L. Roach	Brown Univ. 	Dept. of Geological Sciences	"Providence, RI 02912"			
+ALS	Sprague	Ann L. Sprague	"Lunar and Planetary Laboratory, University of Arizona"	1629 E. University Blvd.	"Tucson, AZ 85721-0092"	sprague@lpl..arizona.edu		
+AMN	Nair	Archana M. Nair	Indian Institute of Technology Bombay	"Dept. of Earth Sciences, Powai"	"Mumbai, 400076 India"	archana@iitb.ac.in		
+AMT	Trueba	Amy M. Trueba 	(Brown Univ.) 	(Box 4580)	"(Providence, RI 02912)"			
+ANA	Aguilera	Amanda N. Aguilera	SETI Institute	515 N. Whisman Rd.	"Moutain View, CA 94043"	aaguilera@seti.org		
+ARH	Huete 	Alfredo R. Huete	University of Arizona 	Dept Soil Water Environ Sci 	"Tucson, AZ 85721"	ahuete@ag.arizona.edu 		
+ARM	Mangiacapra	Annarita Mangiacapra	Osservatorio Vesuviano / INGV	328 via Diocleziano	"Naples, 80128, Italy"	annarita@ov.ingv.it		
+ASR	Rivkin	Andrew S.	Johns Hopkins University Applied Physics Laboratory	11100 Johns Hopkins Rd.	"Laurel, MD 20723"	andy.rivkin@jhuapl.edu		
+ATB	Basilevsky	A.T. Basilevsky 	Vernadsky Institute 	Kosygin Street 19 	"117975 Moscow, Russia "			
+ATG	Getsinger	Amanda T. Getsinger	"Department of Geological Sciences, Brown University"	"Box 1846, 324 Brook Street"	"Providence, RI 02912"	amanda_getsinger@brown.edu		
+AWB	Beck	Andrew W. Beck	"Department of Mineral Sciences, Smithsonian Institution"	"P. O. Box 37012, MRC 0119"	"Washington, DC 20013-7012"	becka@si.edu		
+AXC	Cord	Aurelien Cord	"CNRS, UMR 5562"	14 av. Edouard Belin	"31000 Toulouse, France"	aurelien.cord@cnes.fr		
+AXG	Gallie	Anna Gallie	"Earth Sci, Laurentian Univ"	Ramsey Lake Rd. 	Sudbury Ontario P3E 2C6 Canada	agallie@nickel.laurentian.ca		
+AXH	Holdsworth	Andrew R. Holdsworth	Dept. of Geol. Sci. 	"Box 1846, Brown Univ. "	"Providence, RI 02912"			
+AXY	Yamaguchi 	Akira Yamaguchi 	"Antarctice Meteorite Center, NIPR "	"9-10 Kaga 1-chome, Itabashi-ku"	"Tokyo 173, Japan"	yamaguch@nipr.ac.jp		
+BAA	Anzures	Brendan A. Anzures	"Department of Earth, Environmental and Planetary Sciences, Brown University"	"Box 1846, Brown University"	"Providence, RI 02912"	brendan_anzures@brown.edu		
+BEC	Clark 	Beth E. Clark 	Ithaca College	Physics Department	"Ithaca, NY 14850"	bclark@ithaca.edu		
+BFJ	Fegley	Bruce Fegley Jr.	Washington University 	Campus Box 1169 	"St. Louis, MO 63130-4899"	bfegley@levee.wustl.edu 		
+BHP	Parks	Benjamin H. Parks	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	baenjamin_parks@brown.edu		
+BJT	Thomson	Bradley J. Thomson	Brown Univ. 	Dept. of Geological Sciences	"Providence, RI 02912"			
+BLE	Ehlmann	Bethany L. Ehlmann	Brown Univ. 	Dept. of Geological Sciences	"Providence, RI 02912"	bethany_ehlmann@brown.edu		
+BMH	Hynek	Brian M. Hynek	University of Colorado	"LASP, 2200 Colorado Ave., UCB 392"	"Boulder, CO 80309"	brian.hynek@colorado.edu		
+BWD	Denevi	Brett W. Denevi	Johns Hopkins University Applied Physics Laboratory	11100 Johns Hopkins Rd.	"Laurel, MD 20723"	brett.denevi@jhuapl.edu	1-240-228-2139	
+BXR	Rivard	Benoit Rivard 	Univ. Alberta 	Dept. Earth & Atmospheric Sci 	"Edmonton, AB T6G 2E3, Canada"	benoit.rivard@ualberta.ca 		
+C1M	Mavris	Christian Marvis	Natural History Museum	"Dept. of Earth Sciences, Cromwell Rd."	"London, SW7 5BD, UK"	c.mavris@nhm.ac.uk	44-20-7942-6630	
+C1P	Pilorget	Cedric Pilorget	California Institute of Technology	"1200E California Blvd, MC 150-21"	"Pasadena, CA 91125"	cpilorge@caltech.edu		
+CAG	Goodrich	Cyrena A. Goodrich	Planetary Science Institute		"Houston, TX"	cgoodrich@psi.edu		
+CAM	McLemore	Carole A. McLemore	NASA Marshall Space Flight Center	ZP31	"Huntsville, AL 35812"	carole.a.mcLemore@nasa.gov		
+CBA	Agee	Carl B. Agee	University of New Mexico	"Dept. of Earth & Planet. Sci., MSC 03 2050 1"	"Albuquerque, NM 87131-0001"	agee@unm.edu		
+CCA	Allen	Carlton C. Allen	NASA Johnson Space Center 	KT111	"Houston, TX 77058"	carlton.c.allen@nasa.gov		
+CDC	Cooper	Christopher D. Cooper 	Brown Univ. 	Dept. of Geological Sci.	"Providence, RI 02912"			
+CDH	Herd	Christopher D. Herd	University of Alberta	Dept. of Earth and Atmospheric Sciences	"Edmonton, Alberta, T6G 2E3, Canada"	herd@ualberta.ca		
+CDS	Schultz 	Cody D. Schultz	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	cody_schultz@brown.edu		
+CED	Dionne	Charles E. Dionne 	SAIC	"20 Burlington Mall Rd., Suite "	"Burlington, MA 01803-4126 "			
+CGW	Wang	Chunguang Wang	"College of Earth Sciences, Jilin University"	2199 Jianshe Street	"Changchun 130061, China"	"wangcg11@mails.jlu.edu.cn, chunguang_wang@brown.edu"		
+CHD	Detre 	Csaba H. Detre	Hungarian Geological Inst.	"Stefania ut 14, H-1143"	"Budapest, Hungary "	detre@mafi.hu 		
+CHK	Kremer	Christopher H. Kremer	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	christopher_kremer@brown.edu	1-203-667-4334	
+CJ	Jackson	Colin R.M. Jackson	Brown University	Dept. of Geological Sci.	"Providence, RI 02912"	colin_jackson@brown.edu		
+CJT	Tucker	Compton J. Tucker 	NASA/GSFC 	"Biospheric Sciences, Code 923 "	"Greenbelt, MD 20771 "	compton@kratmos.gsfc.nasa.gov 		
+CJX	Xu	Chenjie	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"	chenjie_xu@brown.edu		
+CMA	Alexander	Conel M. O'D. Alexander	"DTM, Carnegie Institution of Washington"	5241 Broad Branch Road	"Washington, D. C. 20015"	alexander@dtm.ciw.edu		
+CMP	Pieters 	Carle M. Pieters	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI02912 "	carle_pieters@brown.edu		
+CMW	Weitz 	Catherine M. Weitz	NASA JPL		"Pasadena, CA"	catherine.m.weitz@jpl.nasa.gov		
+CNY	Yasanayake	Chanud N. Yasanayake	Johns Hopkins University Applied Physics Laboratory	11100 Johns Hopkins Rd.	"Laurel, MD 20723"	chanud.yasanayake@jhuapl.edu	1-240-592-1326	
+CRK	Kerton	Charles R. Kerton 	"HIGP, Univ. of Hawaii "	2525 Correa Rd. 	"Honolulu, HI 96822"			
+CTB	Born	Christopher T. Born	Rhode Island Hospital Medical Office Center	"2 Dudley Street, Suite 200"	"Providence, RI 02905"	christopher_born@brown.edu		
+CTR	Russel	Christopher T. Russel	UCLA			ctrussel@igpp.ucla.edu		
+CVB	van der Boge	Carolyn van der Bogert	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"			
+CWG	Wagner	Cristoph Wagner 	DLR Forschunszentrum	Rudower Chaussee 5	"0-1199 Berlin, Germany"			
+CWH	Holyoke	"Caleb W. Holyoke, III"	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	caleb_holyoke_III@brown.edu		
+CXS	Sotin	Christophe Sotin	Universite de Nantes	UFR des Sciences et des Techniques 	"2 rue de la Houssinière, B.P. 9220, 844322 Nantes Cedex 3, France"	Christophe.Sotin@chimie.univ-nantes.fr		
+D1D	Dhingra	Deepak Dhingra	Physical Research Laboratory	Room 31	"Navarangpura, Ahmedabad, 380 009, Gujarat, India"	deepakd@prl.res.in		
+D2M	Mittlefehldt	David W. Mittlefehldt	NASA JSC	"SR, 2101 NASA Road 1"	"Houston, TX 77058 "	david.w.mittlefehldt@nasa.gov		
+DAC	Crown 	David A. Crown	University of Pittsburgh	"321 OEH, Geology & Planet. Sci"	"Pittsburgh, PA 15260"			
+DAK	Kring	David A. Kring	Lunar and Planetary Institute 	3600 Bay Area Blvd.	"Houston, TX 77058"	kring@lpi.usra.edu		
+DAS	Straub	D'Arcy Straub 	MIT 	54-816 Dept. of EAPS	"Cambridge, MA 02139 "			
+DC2	Cunnings	Derek A. Cunnings 	Brown University	Dept. of Chemistry	"Providence, RI 02912"			
+DDL	Domingue Lorin	Deborah Domingue Lorin	Planetary Science Institute			domingue@psi.edu		
+DES	Sabol 	Donald E. Sabol Jr. 	Univ. of Washington 	Dept of Geo. Sci. 	"Seattle, WA98195"	don@oz.geology.washington.edu 		
+DFB	Blake	David F. Blake	NASA Ames Research Center	MS 239-4	"Moffett Field, CA  94035-1000"	dblake@mail.arc.nasa.gov		
+DGS	Stankevich	Dima G. Stankevich	Kharkov State University	Astronomical Observatory	"Kharkov, 310022, Ukraine"	stankevich@astron.kharkov.ua		
+DLB	Bish	Dave L. Bish	"Dept. of Geological Sciences, Indiana University"	1001 East 10th Street	"Bloomington, IN 47405-1405"	bish@indiana.edu		
+DLG	Goldsby	David L. Goldsby	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	david_goldsby@brown.edu		
+DLR	Rickman	Douglas L. Rickman	Jacobs Technology	7901 Valley View Drive	"Huntsville, AL 35802"	doug.rickman@nasa.gov	1-256-650-5422	
+DPC	Cruikshank	Dale P. Cruikshank	NASA Ames Research Center	MS 245-6	"Moffett Field, CA  94035"	dale.p.cruikshank@nasa.gov	1-650-604-1444	
+DPM	Moriarty	Daniel P. Moriarty	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	daniel_moriarty@brown.edu		
+DSE	Ebel	Denton S. Ebel	"Dept. of Earth and Planetary Sciences, American Museum of Natural History"	Central Park West at 79th Street	"New York, NY 10024"	debel@amnh.org		
+DSF	Fisher	Duncan S. Fisher	MIT 	54-822 MIT	"Cambridge, MA 02139"			
+DSM	McKay	David S. McKay	NASA Johnson Space Center 	"2101 NASA Rd 1, Mail Code SN"	"Houston, TX 77058"	david.s.mckay@nasa.gov		
+DTB	Britt 	Dan T. Britt 	"Center for Lunar and Asteroid Surface Science, University of Central Florida"	4000 Central Florida Blvd.	"Orlando, FL 32816"	dbritt@ucf.edu	1-407-823-2600	
+DTW	Wetzel	Diane T. Wetzel	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	diane_wetzel@brown.edu		
+DWM	Murray	David W. Murray	Brown University	Box 1943	"Providence, RI 02912"	david_murray@brown.edu		
+DWS	Sears	Derek W. G. Sears	"Arkansas Center for Space and Planetary Science, University of Arkansas"	202 Old Museum Building	"Fayetteville, AR 72701"	dsears@uark.edu		
+E1S	Sorokin	Egor M. Sorokin	Vernadsky Institute 	Kosygin Street 19 	"117975 Moscow, Russia "	egorgeohim@ya.ru	1-781-628-8849	
+EAB	Bruckenthal 	Eileen A. Bruckenthal 	Kennedy/Jenks Consultants 	303 2nd St. North 	"San Fransisco, CA 94107 "			
+EAC	Cloutis 	Edward A. Cloutis 	"Department of Geography, University of Winnipeg "	515 Portage Ave.	"Winnipeg, Manitoba, Canada R3B2E9"	e.cloutis@uwinnipeg.ca	1-204-786-9386	
+EAF	Fisher	Elizabeth A. Fisher	"Department of Earth, Environmental and Planetary Sciences, Brown University"	Box 1846	"Providence, RI 02912"	elizabeth_fisher1@brown.edu		
+EAG	Guinness	Edward A. Guinness	Washington Univ.	Dept. of Earth & Planet. Sci. 	"St. Louis, MO 63130 "	guinness@wunder.wustl.edu 		
+EBR	Rampe	Elizabeth B. Rampe	"School of Earth & Space Exploration, Arizona State University"	PO Box 871404	"Tempe, AZ 85287-1404"	liz.rampe@asu.edu		
+ECP	Paisley 	Elizabeth Paisley Ivester 	Scottsdale C.C. 	431 W. Euclid Ave.	"Phoenix, AZ85041"			
+ECS	Sklute	Elizabeth C. Sklute	Mount Holyoke College	"Dept. of Astronomy, 50 College Street"	"South Hadley, MA 01075"	ecsklute@mtholyoke.edu	1-510-301-6512	
+EJH	Hoffman	Eugene J. Hoffman	Morgan State University	"Physics Department, 1700 E. Cold Spring Lane"	"Baltimore, MD 21251"	eugene.hoffman@morgan.edu		
+EKT	Tonui	Eric K. Tonui						
+EMF	Fischer 	Erich M. Fischer						
+EMS	Shank	Ellen M. Shank	Johns Hopkins University - Applied Physics Laboratory	1110 Johns Hopkins Road 200-W230	"Laurel, MD 20723-6099"	ellen.shank@jhuapl.edu		
+ENT	Taylor	Erik N. Taylor	"Center for Biomedical Engineering, Brown University"	Box D	"Providence, RI 02912"	erik_taylor@brown.edu		
+ETG	Goergen	Eric T. Goergen	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"			
+EXM	Merenyi 	Erzsebet Merenyi	Univ. of Arizona	Lunar & Planet. Lab.	"Tucson, AZ"	erzsebet@pirl.lpl.arizona.edu 		
+FGS	Gilbes	Fernando Gilbes	University of Puerto Rico	"Department of Geology, PO Box 9017"	"Mayaguez, Puerto Rico, 00681-9017"	fernando.gilbes@upr.edu		
+FMM	McCubbin	Francis M. McCubbin	"Geophysical Laboratory, Carnegie Institution of Washington"	"5251 Broad Branch Rd., N. W."	"Washington, D.C. 20015"	fmccubbin@ciw.edu		
+FPF	Fanale	Fraser P. Fanale	"HIGP, Univ. of Hawaii "	2525 Correa Road	"Honolulu, Hawaii 96822"			
+FXH	Horz	Fred Horz 	NASA JSC	NASA Road 1	"Houston, TX77058"			
+G1M	Mathew	George Mathew	Indian Institute of Technology Bombay	"Dept. of Earth Sciences, Powai"	"Mumbai, 400076 India"	gmathew@iitb.ac.in		
+GGV	Vane	Gregg Vane	JPL 					
+GJT	Taylor	G. Jeffrey Taylor	"Hawaii Inst. of Geophysics and Planetology, University of Hawai'i"	1680 East-West Rd.	"Honolulu, HI 96822"	gjtaylor@higp.hawaii.edu		
+GKB	Benedix 	Gretchen K. Benedix 	"Dept. Earth & Planet. Sci., Washington University "	"Box 1169, One Brookings Dr."	"St. Louis, MO 63130-4899"	gretchen@levee.wustl.edu		
+GLB	Bonello	Guillaume	"CNR di Tor Verquita, IASF"	"Via del fano del cuvaliere, 100 - 00133"	"Roma, Italy"	guillaume.bonello@rm.iasf.cnr.it		
+GLK	Kodikara	Gayantha R. L. Kodikara	"Department of Geosciences, University of Wisconsin"	3209 N. Maryland Ave.	"Milwaukee, WI 53211"	gayantha@uwm.edu	1-414-544-4641	
+GMG	Green 	Glen M. Green 	Washington University 	Campus Box 1169 	"St. Louis, MO 63130 "			
+GRK	Klingelhoefe	Goestar Klingelhoefer 	Institute for Nuclear Physics 	Schlossgartenstr. 9 	"D-64289 Darmstadt, Germany"			
+GXA	Arnold	Gabriele Arnold 	DLR 		"Berlin, Germany "			
+GXB	Blount	Grady Blount	Texas A&M Univ Corpus Christi 	6300 Ocean Dr CS 130	"Corpus Christi, TX 78412"			
+GXR	Ryder 	Graham Ryder	Lunar and Planetary Institute 	3600 Bay Area Blvd	"Houston, TX 77058 "			
+H1K	Kanamori	Hiroshi Kanamori	"Space & Robot System Group, Institute of Technology, Shimizu Corp."	"4-17, Etchujima 3-chome"	"Koto-ku, Tokyo 135-8530, Japan"	kanamori@shimz.co.jp		
+H1T	Takeda	Hiroshi Takeda	"Research Institute, Chiba Institute of Technology"		"Narashino, Chiba, Japan"	takeda.hiroshi@it-chiba.ac.jp		
+H2K	Kaiden	Hiroshi Kaiden	National Institute of Polar Research	10-3 Midoricho	"Tachikawa, Tokyo 190-0014, Japan"	kaiden@nipr.ac.jp		
+HHK	Kaplan	Hannah H. Kaplan	"Dept. of Earth and Planetary Sciences, Brown University"	Box 1846	"Providence, RI 02912"	hannah_kaplan@brown.edu		
+HYM	McSween	Harry Y. McSween	"Dept. Earth & Planet. Sci., Univ. of Tennessee"	1412 Circle Drive	"Knoxville, TN 37996-1410"	mcsween@utk.edu		
+J1C	Cuadros	Javier	"Dept. of Mineralogy, Natural History Museum"	Cromwell Road	"London, SW7 5BD, UK"	j.cuadros@nhm.ac.uk		
+J1F	Filiberto	Justin Filiberto	Southern Illinois University	Mail Code 4324	"Carbondale, IL 62901"	filiberto@siu.edu		
+J1G	Gross	Juliane	American Museum of Natural History	Central Park West at 79th Street	"New York, NY 10024"	jgross@amnh.org		
+J1H	Helbert	Joern Helbert	DLR - Institute for Planetary Research	Rutherfordstr. 2	"12489 Berlin, Germany"	joern.helbert@dlr.de		
+J1M	Muto	Jun Muto	"Geological Sci, Brown Univ"	Box 1846	"Providence, RI 02912"	jun_muto@brown.edu		
+J1R	Rankin	Janet Rankin	Brown University	"Box D, Engineering"	"Providence, RI 02912"	janet_rankin@brown.edu		
+J2M	Morgan	Jeffrey R. Morgan	"Dept. of Molecular Pharmacology, Physiology, and Biotechnology, Brown University"	"G-B 393, Biomed Center, 171 Meeting Street"	"Providence, RI 02912"	jeff_morgan@brown.edu		
+JAL	Lessing	Joshua A. Lessing	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"			
+JAT	Tullis	Jan A. Tullis	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	jan_tullis@brown.edu		
+JB3	Bell	James F. Bell III 	Cornell University		"Ithaca, NY"	jimbo@marswatch.tn.cornell.edu		
+JBA	Adams 	John B. Adams 	University of Washington	Dept. Geological Sciences 	"Seattle, WA "			
+JD	Danielsen	Jacob M. Danielsen	San Jose State University			jacob.danielsen@sjsu.edu		
+JDJ	Jarrell	John D. Jarrell	"Dept. of Molecular Pharmacology, Physiology, and Biotechnology, Brown University"	"G-B 393, Biomed Center, 171 Meeting Street"	"Providence, RI 02912"	john_jarrell@brown.edu		
+JDT	Tarnas	Jesse D. Tarnas	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	jesse_tarnas@brown.edu		
+JEE	Edmunson	Jennifer E. Edmunson	"BAE Systems, NASA Marshall Space Flight Center"		"Huntsville, AL 35812"	jennifer.e.edmunson@nasa.gov		
+JEH	Hays	John E. Hays	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912 "			
+JFB	Bell	Jeffery F. Bell 	University of Hawaii	Planetary Geosciences Division	"Honolulu, HI 96822"			
+JFM	Mustard 	Jack Mustard	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912 "	john_mustard@brown.edu	1-401-863-1264	
+JGH	Hirth	J. Greg Hirth	"Department of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	greg_hirth@brown.edu		
+JGS	Spray 	John G. Spray 	Univ. of New Brunswick	Dept. of Geology	"Fredericton, NB, Canada E3B5A3"			
+JJG	Gillis-Davis	Jeffrey J. Gillis-Davis	"Hawaii Inst. of Geophysics and Planetology, University of Hawai'i"	"1680 East-West Rd, Post 524"	"Honolulu, HI 96822"	gillis@higp.hawaii.edu		
+JLB	Bishop	Janice L. Bishop	SETI Institute	515 N. Whisman Rd.	"Moutain View, CA 94043"	jbishop@seti.org		
+JLS	Whitford	J. L. Whitford-Stark	Sul Ross State Univ.	Box C-129 	"Alpine, TX79832 "			
+JMD	Day	James M. D. Day	"Isotope Geology Laboratory, Dept. of Geology, Univ. of Maryland"	"
+"	"College Park, MD 20742"	jamesday@umd.edu		
+JMR	Russell	James M. Russell	"Dept. of Geological Sciences, Brown University"	Box 1846	"Providence, RI 02912"	james_russell@brown.edu		
+JMS	Sunshine	Jessica M. Sunshine 	University of Maryland	"Department of Astronomy, 1207 CSS Bldg. 224"	"College Park, MD 20742"	jess@astro.umd.edu	1-301-405-1045	
+JNG	Goswami	Jitendra N. Goswami	Physical Research Laboratory	Navrangpura	"Ahmedabad, 380 009 Gujarat, India"	goswami@prl.res.in		
+JNM	Murl	Jeffrey N. Murl	"Hawaii Inst. of Geophysics and Planetology, University of Hawai'i"	"1680 East-West Road, Post 524"	"Honolulu, HI 96822"	jmurl@hawaii.edu		
+JPB	Bibring	Jean Pierre Bibring	Universite de Nantes	UFR des Sciences et des Techniques 	"2 rue de la Houssinière, B.P. 9220, 844322 Nantes Cedex 3, France"			
+JPE	Emery	Joshua P. Emery	University of Tennessee	"Dept. of Earth & Planetary Sci., 1412 Circle Drive"	"Knoxville, TN 37996"	jemery2@vols.utk.edu	1-865-974-8039	
+JPM	Mann	J. Paul Mann	"Dept. of Geology, University of Winnipeg"	515 Portage Avenue	"Winnipeg, Manitoba R3B 2E9, Canada"	paul.mann347@gmail.com		
+JRJ	Johnson	Jeffrey R. Johnson	US Geological Survey					
+JRM	Michalski	Joseph R. Michalski	Planetary Science Institute	56 Westbourne Park Road #12	"London, W2 5PJ, UK"	michalski@psi.edu		
+JRS	Skok	John R. Skok	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	john_skok@brown.edu		
+JRZ	Zimmerman 	James R. Zimmerman	CEPS	NASM Smithsonian	"Washington, DC"	jrz@ceps.nasm.edu 		
+JTW	Wasson	John T. Wasson	Univ. of California 	Inst. of Geophys	"Los Angeles, CA 90024 "	wasson@igpp.ucla.edu		
+JWH	"Head, James "	James W. Head 	Brown University	Dept. Geological Sciences 	"Providence, RI 02912"	James_Head_III@Brown.edu		
+JWS	Salisbury 	John W. Salisbury 	Johns Hopkins University (Rtd.)	84 Cochise Ct.	"Palm Coast, FL 32137"	salisburys@worldnet.att.net 		
+JZS	Sun 	Jingzhen Sun	(Brown Univ.) 	(Dept. Chemistry) 	"(Providence, RI 02912)"			
+K2G	Kathleen	Kathleen M. Gough	"Dept. of Chemistry, Univ. of Manitoba"	"Room 360, Parker Building, 144 Dysart Road"	"Winnipeg, Manitoba, Can R3T 2N2"	kmgough@cc.umanitoba.ca		
+KAM	McCormack	Kaitlyn A. McCormack	"Dept Geography, Univ Winnipeg "	515 Portage Ave.	"Winnipeg, Manitoba, Can R3B2E9"	k.mccormack@uwinnipeg.ca		
+KBW	Whilliams	Kelsey Brianne Williams	Brown University	Box 4450	"Providence, RI 02912"	kelsey_williams@brown.edu		
+KDH	Donaldson Hanna	Kerri L. Donaldson Hanna	Brown University	Dept. Geological Sciences 	"Providence, RI 02912"	kerri_donaldson_hanna@brown.edu		
+KHO	Ohtsuka	Katsuhito Ohtsuka	Tokyo Meteor Network	"1-27-5, Daisawa, Setagaya-ku"	"Tokyo 155-0032, Japan"	ohtsuka@jb3.so-net.ne.jp		
+KKB	Beratan 	Kathi Kronenfeld Beratan	Duke University	Box 90328 LSRC	"Durham, NC 27708-0328"			
+KMC	Cannon	Kevin M. Cannon	Brown University	Dept. of Geological Sciences	"Provicence, RI 02912"	kevin_cannon@brown.edu		
+KMG	Geitzen	Katherine M. Geitzen	"Arkansas Center for Space and Planetary Science, University of Arkansas"	202 Old Museum Building	"Fayetteville, AR 72701"	kgietze@uark.edu		
+KML	Lehman	Katelyn M. Lehman	Teas Christian University	"Monnig Meteorite Collection, 2950 West Bowie, SWR 207"	"Fort Worth, TX 76109"	k.lehman@tcu.edu		
+KMR	Robertson	Kevin M. Robertson	"Dept. of Geological Sci., Brown University"	Box 1846	"Providence, RI 02912"	kevin_robertson@brown.edu		
+KRK	Kuhlman	Kim R. Kuhlman	Planetary Science Institute	8220 N. County Road M	"Evansville, WI 53536"	kim@psi.edu		
+KTH	Howard	Kieren T. Howard	Kingsborough Community College of the City University of New York (CUNY)	"Department of Physical Sciences, 2001 Oriental Blvd."	"Brooklyn, NY 11235"	kieren.howard@kbcc.cuny.edu	1-718-368-5771	
+KVK	Vander Kaaden	Kathleen E. Vander Kaaden	Jacobs Technology / NASA JSC	2101 NASA Parkway	"Houston, TX 77058"	kathleen.e.vanderkaaden@nasa.gov	1-281-244-5020	
+KXK	Keil	Klaus Keil	"HIGP, Univ. of Hawaii "	Planetary Geoscience Division 	"Honolulu, HI96822 "			
+LAM	McFadden	Lucy Ann McFadden 	University of Maryland	Dept. of Astronomy	"College Park, MD 20742-2421 "	mcfadden@astro.umd.edu		
+LAT	Taylor	Larry A. Taylor						
+LCC	Cheek	Leah C. Cheek	"Dept. of Geological Sci., Brown University"	Box 1846	"Providence, RI 02912"	lcchee@gmail.com		
+LEH	Roach	Leah E. Hutchison Roach	"Dept. of Geological Sci., Brown University"	Box 1846	"Providence, RI 02912"	leah_roach@brown.edu		
+LEN	Nyquist	Lawrence E. Nyquist	NASA JSC	SR	"Houston, TX 77058 "	laurence.e.nyquist@nasa.gov		
+LET	Tokle	Leif E. Tokle	"Dept. of Earth, Environmental and Planetary Sciences, Brown University"	"Box 1846, 324 Brook Street"	"Providence, RI 02912"	leif_tokle@brown.edu	1-845-443-6894	
+LF	Fletcher	Lauren Fletcher	"Atmospheric, Oceanic and Planetary Physics, University of Oxford"	"Clarendon Laboratory, Parks Road"	"Oxford OX1 3PU, United Kingdom"	lauren@atm.ox.ac.uk	44-1865-272902	
+LJA	Accioly 	Luciano J. O. Accioly 	University of Arizona 	"Soil, Water & Environ. Sci. De"	"Tucson, AZ 85721"			
+LJC	Chernak	Linda J. Chernak	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	linda_chernak@brown.edu		
+LJM	McHenry	Lindsay J. McHenry	"Department of Geosciences, University of Wisconsin"	3209 N. Maryland Ave.	"Milwaukee, WI 53211"	lmchenry@uwm.edu	1-414-229-3951	1-414-229-5452
+LLG	Griffith	Laura L. Griffith 	Washington Univ.	"Campus Box 1169, 1 Brookings D"	"St. Louis, MO 63130 "			
+LMM	Martel	Linda M. V. Martel	"Hawaii Inst. of Geophysics and Planetology, University of Hawai'i"	1680 East-West Rd.	"Honolulu, HI 96822"	linda@higp.hawaii.edu		
+LMP	Pratt 	Lisa M. Pratt	"Department of Geological Sciences, Indiana University"	1001 East 10th Street	"Bloomington, IN 47405-1405"	prattl@indiana.edu		
+LPK	Keller	Lindsay P. Keller	NASA Johnson Space Center 	"KR111, NASA Road 1"	"Houston, TX 77058"	lindsay.p.keller@nasa.gov		
+LPR	Rudd	Lawrence P. Rudd	University of Arizona 	"Dept. Hydrology & Water Resources, PO Box 210072"	"Tucson, AZ 85721"	lrudd@geo.arizona.edu		
+LXM	Moroz 	Lyuba Moroz 	Inst Sp Sensor Tech Pla Exp 	DLR 	"D-12489, Berlin, Germany"	ljuba.moroz@dlr.de		
+M1H	Horanyi	Mihaly Horanyi	"Department of Physics, University of Colorado"	390 UCB	"Boulder, CO 80309"	mihaly.horanyi@lasp.colorado.edu		
+M1M	Melles	Martin	"Institute of Mineralogy and Geology, University of Cologne"	Zuelpicher Str. 49a	"D-50674 Cologne, Germany"	mmelles@uni-koeln.de	49-221-470-2262	
+M1O	Ohtake	Makiko Ohtake	"Dept. of Planetary Sci., JAXA Institute of Space and Astronautical Sci."	3-1-1 Yoshinodai	"Sagamihara, Kanagawa 229-8510, Japan"	ohtake.makiko@jaxa.jp		
+MAC	Craig	Michael A. Craig	"Dept Geography, Univ Winnipeg "	515 Portage Ave.	"Winnipeg, Manitoba, Can R3B2E9"	mcraig75@hotmail.com		
+MAP	Python	Marie Python	"CNRS, UMR 5562"	14 av. Edouard Belin 	"31000 Toulouse, France"	marie.python@cnes.fr		
+MAR	Riner	Miriam A. Riner	"School of Ocean and Earth Science and Technology, University of Hawaii"	1680 East West Rd.	"Honolulu, HI 96822"	mariner@higp.hawaii.edu		
+MAS	Schoonen	Martin A. A. Schoonen	State University of New York	Dept. of Geosciences	"Stony Brook, NY 11794-2100"	mschoonen@notes.cc.sunysb.edu		
+MBM	Madsen	Morten B. Madsen	"Niels Bohr Institute, Oersted "	Universitets Parken 5 	"DK-2100 Copenhagen, Denmark "			
+MBS	Syal	Megan B. Syal	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	megan_syal@brown.edu		
+MBW	Wyatt	Michael B. Wyatt						
+MCG	Goryniuk	Michelle C. Goryniuk	University of Alberta	"EOSL, 1-26 ESB"	"Alberta, Canada, T6G 2E7"	goryniuk@ualberta.ca		
+MDD	Dyar	Melinda D. Dyar	Mount Holyoke College	"Dept. of Astronomy, Kendade Hall, 50 College St."	"South Hadley, MA 01075"	mdyar@mtholyoke.edu		
+MDK	Kraft	Michael D. Kraft	Arizona State University	PO Box 871404	"Tempe, AZ 85287-1404"	mdkraft@asu.edu		
+MDL	Lane	Melissa D. Lane	Planetary Science Institute	"1700 E. Fort Lowell Rd, Suite 106 "	"Tucson, AZ 85719 "	melissalane@cox.net		
+MDS	Michael	Michael KD Stipp	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"			
+MEB	Bell	Maureen E. Bell	Cornell University	"c/o Beth Clark, Ithaca College, 267 Natural Science Bldg"	"Ithaca, NY 14850"	mbell5@twcny.rr.com		
+MEL	Lipschutz 	Michael E. Lipschutz	Purdue University 	Dept. of Chemistry	"West Lafayette, IN 47907"			
+MEM	Minitti 	Michelle E. Minitti 	"School of Earth & Space Exploration, Arizona State University"	550 East Tyler Mall PSF Rm #683A	"Tempe, AZ 85287-1404"	minitti@asu.edu		
+MEZ	Zolensky	Michael E. Zolensky 	NASA Johnson Space Center 	SN2 	"Houston, TX 77058 "	michael.e.zolensky@jsc.nasa.gov		
+MFS	Sheridan	Michael F. Sheridan 	Arizona State University	Dept. of Geology	"Tempe, AZ 85287"			
+MGN	Nicholis	Mike G. Nicholis	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	mike_nicholis@brown.edu		
+MIS	Staid 	Matthew I. Staid	"USGS, Astrogeology "	2255 North Gemini Drive	"Flagstaff, AZ 86001"	mstaid@usgs.gov		
+MJC	Cintala	Mark J. Cintala	NASA Johnson Space Center 	Mail Code KR	"Houston, TX 77058"	mark.j.cintala1@jsc.nasa.gov		
+MJG	Gaffey	Michael J. Gaffey 	Univ. of N. Dakota	Space Studies Dept.	"Grand Forks, ND 58202"	gaffey@aero.und.edu		
+MJR	Rutherford	Malcolm J. Rutherford 	Brown University	"Department of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"			
+MKS	Shepard 	Mike K. Shepard 	Bloomsburg Univ.	Dept. Geography & Earth Sci 	"Bloomsburg, PA 17815"			
+MMM	McAdam	Margaret M. McAdam	University of Maryland	"Dept. of Astronomy, 1204 CSS Building"	"College Park, MD 20742"	mmcadam@astro.umd.edu	1-603-305-3783	
+MPL	Lucas	Michael P. Lucas	University of Tennessee	"Dept. of Earth & Planetary Sci., 1412 Circle Drive"	"Knoxville, TN 37996"	mlucas9@vols.utk.edu	1-239-628-7864	
+MS 	Sultan	Mohamed Sultan	(Washington University )	Campus Box 1169 	"St. Louis, MO 63130"			
+MSB	Bramble	Michael S. Bramble	Brown University	"Department of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	michael_bramble@brown.edu		
+MSG	Gilmore 	Martha S. Gilmore 	Wesleyan University	Dept. of Earth and Environmental Sciences	"Middletown, CT  06459 "	mgilmore@mail.wesleyan.edu		
+MSR	Robinson	Mark S. Robinson	Arizona State University	"100 S. Cady Mall, Admin Bldg. A-Wing, Room A103"	"Tempe, AZ 85287-3603"	mrobinson@asu.edu		
+MTM	Mayes	Marc T. Mayes	Brown University Geological Sciences - MBL Joint Ph.D. Program	"Box 1846, 324 Brook Street"	"Providence, RI 02912"	marc_mayes@brown.edu		
+MXM	Matsuoka	Moe Matsuoka	JAXA Institute of Space and Astronautical Science	"3-1-1 Yoshinodai, Chuo-ku"	"Sagamihara City, Kanagawa Prefecture, 252-5210 Japan"	matsuoka@planeta.sci.isas.jaxa.jp	81-50-3362-6945	
+MXP	Prinz 	Martin Prinz	Amer. Mus. Natural Hist.	C.P.W. at 79th St.	"New York, NY 10024"			
+MXS	Stipp	Michael Stipp	Brown Univ. 	Dept. of Geological Sciences	"Providence, RI 02912"	michael.stipp@unibas.ch		
+MZO	Okazaki	Mizuki	Osaka University	Department of Earch and Space Science	"1-1 Machikaneyama, Toyonaka, Osaka 560-0043, Japan"	okazaki@astroboy-jp.com		
+N1S	Srivastava	Neeraj Srivastava	Physical Research Laboratory	Room 31	"Navarangpura, Ahmedabad, 380 009, Gujarat, India"	sneeraj@prl.res.in		
+NEB	Bowles	Neil E. Bowles	"Atmospheric, Oceanic and Planetary Physics, University of Oxford"	"Clarendon Laboratory, Parks Road"	"Oxford OX1 3PU, United Kingdom"	bowles@atm.ox.ac.uk	44-1865-272097	
+NJD	Dygert	Nicholas Dygert	Brown Univ. 	Dept. of Geological Sciences	"Providence, RI 02912"	nicholas_dygert@brown.edu		
+NJT	Tosca	Nicholas J. Tosca	"Dept. of Organismic and Evolutionary Biology, Harvard University"	Botanical Museum 52A	"Cambridge, MA 02138"	ntosca@fas.harvard.edu		
+NKM	McKeown	Nancy K. McKeown	SETI Institute	189 Bernardo Avenue	"Mountain View, CA 94043"			
+NLT	Tran	Nhiem L. Tran	Brown University	"Box 1843, 182 Hope St."	"Providence, RI 02912"	nhiem_tran@brown.edu		
+NMH	Hernandez	Natlee M. Hernandez	University of Puerto Rico	PO Box 1633	"Coamo, Puerto Rico, 00769"	natlee.hernandez@gmail.com		
+NRI	Izenberg	Noam R. Izenberg	Washington University 	Campus Box 1169 	"St. Louis, MO 63105 "			
+OGR	Rode	Olga Rode 	Vernadsky Institute 	Kosygin Street 19 	"Moscow, Russia"			
+P1H	Harner	Patrick L. Harner	"Department of Earth and Environmental Sciences, Wesleyan University"	265 Church Street	"Middletown, CT  06459 "	pharner@wesleyan.edu	1-860-685-2244	
+P1M	Mann	Paul Mann	"Department of Geography, University of Winnipeg "	515 Portage Ave.	"Winnipeg, Manitoba, Canada R3B2E9"	p.mann-ra@uwinnipeg.ca	1-204-786-9994	
+PAS	Skemer	Philip A. Skemer	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	philip_skemer@brown.edu		
+PCP	Pinet 	Patrick Pinet 	"CNRS, UMR 5562"	14 av. Edouard Belin 	"31000 Toulouse, France"	Patrick.Pinet@cnes.fr		
+PDL	Lowman	Paul D. Lowman	NASA/GSFC 	Code 698 NASA/GSFC	"Greenbelt, MD 20771 "	paul.d.lowman@nasa.gov		
+PFV	Vernazza	Pierre F. Vernazza	European Space Agency	"Research and Scientific Support Department, Keplerlaan 1"	"2201 AZ Noordwijk, The Netherlands"	pvernazz@rssd.esa.int		
+PGL	Lucey	Paul G. Lucey	"University of Hawaii, Manoa"	1680 East West Rd.	"Honolulu, HI 96822"	lucey@higp.hawaii.edu		
+PHS	Schultz 	Peter H. Schultz	Brown University	Box 1846 Geo. Sci.	"Providence, RI02912 "	peter_schultz@brown.edu 		
+PJI	Isaacson	Peter J. Isaacson	"Dept. of Geological Sciences, Brown University"	Box 1846	"Providence, RI02912 "	peter_isaacson@brown.edu		
+PLH	Hauff	Phoebe L. Hauff 	Spectral Research 	208 West Cleveland	"Lafayette, CO 80026 "			
+PMJ	Jenniskens	Petrus M. Jenniskens	SETI Institute	515 N. Whisman Rd.	"Mountain View, CA 94043"	petrus.n.jenniskens@nasa.gov		
+PNH	Holden	Peter N. Holden 	(RPI )	Dept. of Geology	"Troy, NY12181 "			
+PRC	Christensen	Philip R. Christensen	Arizona State University	Dept. of Geological Sciences	"Tempe, AZ 85287"	phil.christensen@asu.edu		
+PTB	Beauchamp 	Pat Beauchamp 						
+PTT	Taylor	Patrick T. Taylor	Planetary Geodynamics Laboratory	"Code 698, NASA/GSFC"	"Greenbelt, MD 20771 "	patrick.taylor@nasa.gov		
+PXH	Hudon	Pierre Hudon	"Dept. Earth & Planet. Sci., McGill University"	3450 University Street	"Montreal, QC, H3A-2A7, Canada"	pierreh@eps.mcgill.ca		
+PXU	Xu	Pung Xu 	Arizona State Univ. 	Dept. Of Geology	"Tempe, AZ 85287-1404"	xu@asuws2.la.asu.edu		
+QXG	Gu	Quan Gu 	Brown University	Dept. of Chemistry	"Providence, RI 02912"			
+RAF	Fogel 	Robert Fogel	A. Museum of Natural History	79 West & Central Pk. W.	"NY, NY10024 "			
+RBS	Singer	Robert B. Singer	(University of Arizona )	Planetery Image Research Lab	"Tucson, AZ85721 "	singer@lpl.arizona.edu		
+RCA	Anderson	Robert C. Anderson	University of Pittsburgh	"321 OEH, Geology & Planet. Sci"	"Pittsburgh, PA 15260"			
+REA	Arvidson	Raymond E. Arvidson 	Washington University 	Campus Box 1169 	"St. Louis, MO 63105 "	arvidson@wunder.wustl.edu 		
+REM	Milliken	Ralph E. Milliken	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	Ralph.Milliken@jpl.nasa.gov		
+RES	Sheppard	Rachel E. Sheppard	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	rachel_sheppard@brown.edu		
+RGB	Burns 	Roger G. Burns	(MIT) 					
+RGM	Mayne	Rhiannon G. Mayne	Texas Christian University	"Monnig Meteorite Collection, 2950 West Bowie, SWR 207"	"Fort Worth, TX 76109"	r.g.mayne@tcu.edu		
+RKS	Sharma	Raven K. Sharma	"Dept. of Geography, University of Winnipeg"	515 Portage Avenue	"Winnipeg, Manitoba, Canada R3B 2E9"	umshar24@gmail.com		
+RLK	Klima	Rachel L. Klima	Johns Hopkins University Applied Physics Laboratory	11100 Johns Hopkins Rd.	"Laurel, MD 20723"	rachel.klima@jhuapl.edu	1-443-778-0627	1-443-778-8939
+RMN	Nelson	Robert M. Nelson	NASA JPL	MS 183-501	4800 Oak Grove Dr.	robert.m.nelson@jpl.nasa.gov		
+RNG	Greenberger	Rebecca N. Greenberger	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	rgreenberger@gmail.com		
+RPB	Binzel	Richard P. Binzel 	MIT 	54-418	"Cambridge, MA 02134 "	rpb@mit.edu		
+RSH	Harris	Robert Scott Harris	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	robert_harris@brown.edu		
+RTD	Daly	Ronald T. Daly	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	ronald_daly@brown.edu	1-408-455-4447	
+RVM	Morris	Richard V. Morris 	NASA/JSC	SN4 	"Houston, TX 77058 "	richard.v.morris@jsc.nasa.gov 		
+RXG	Greeley 	Ronald Greeley	Arizona State University	Dept of Geology 	"Tempe, AZ 85287"	greeley@asu.edu 		
+S1G	Gorkhali	Suraj Gorkhali	Brown University			suraj_gorkhali@brown.edu		
+S1K	Kameda	Shingo	"Department of Physics, Rikkyo University"	"3-34-1 Nishi-Ikebukuro, Toshima-ku"	"Tokyo, Japan 171-8501"	"kameda@rikkyo.ac,ho"		
+S1L	Li	Shuai	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	shuai_li@brown.edu		
+S1S	Sugita	Seiji	"Graduate School of Frontier Sciences, University of Tokyo"	5-1-5 Kashiwanoha	"Kashiwa, Chiba Pref. 277-8561"	sugita@k.u-tokyo.ac.jp		
+SAY	Yon 	Steven A. Yon 		17166 St. Andrews Drive 	"Poway, CA92064"			
+SDC	Crossley	Samuel D. Crossley	University of Maryland	"Geology Bldg, 8000 Regents Dr."	"College Park, MD 20742"	sdcross@umd.edu	1-817-609-3343	
+SEE	Edson	Shauna E. Edson	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"			
+SFP	Pratt 	Steve Pratt 	Brown University	Dept. of Geological Sciences	"Providence, RI 02912 "			
+SGH	Herzog	Stephen G. Herzog 						
+SHS	Sun	Shouheng	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"	shouheng_sun@brown.edu		
+SJG	Gaffey	Sue Gaffey						
+SJK	King	Sara J. King	Sacramento State University	9125 Newhall Drive #27	"Sacramento, CA 95826"	csilverleaf@hotmail.com		
+SKN	Noble 	Sarah K. Noble	NASA Marshall Space Flight Center			sarah.k.noble@nasa.gov		
+SLM	Murchie 	Scott L. Murchie	Johns Hopkins University	Applied Physics Laboratory	"Laurel, MD 20723"			
+SLT	Tompkins	Stefanie Tompkins 	Science Application Intl Corp 	4501 Daly Dr. Suite 400 	"Chantilly, VA 20151 "	stefanie.tompkins@darpa.mil		
+SMG	Gorun 	Sergiu M. Gorun 	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"			
+SMP	Pelkey	Shannon M. Pelkey	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"			
+SNP	Patel	Shital N. Patel	San Jose State University / SETI Institute	189 Bernardo Avenue	"Mountain View, CA 94043"	shital.patel@sjsu.edu	1-707-484-7030	
+SPC	Chabrillat	Sabine Chabrillat 	GRGS/Observatoire Midi-Pyrenee	14 av. Edouard Belin	"F-31400 Toulouse, France"			
+SVK	Kaufman	Sierra V. Kaufman	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	sierra_kaufman@brown.edu		
+SWP	Parman	Stephen W. Parman	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	stephen_parman@brown.edu		
+SWR	Ruff	Steve W Ruff	Arizona State University	Moeur Bldg Rm 131	"Tempe, AZ 85287"	ruff@emma.la.asu.edu		
+SXJ	Ji	Shuang Ji 	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"			
+SXK	Kotelnikov	S. Kotelnikov 						
+SXM	Mark	Seamus Mark 	Brown University	Box 2677	"Providence, RI 02912"			
+SXS	Sasaki	Sho Sasaki	Osaka University	Department of Earch and Space Science	"1-1 Machikaneyama, Toyonaka, Osaka 560-0043, Japan"	sho@miz.nao.ac.jp		
+T1K	Kanaya	Takamasa Kanaya	Brown University	"Department of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	kanaya@brown.edu		
+T1T	Tseng	Tiffany Tseng	Duke University	Box 93556	"Durham, NC 27708"	ttseng66@gmail.com		
+T1Y	Yamamoto	Taku Yamamoto	"Dept. of Planetary Sci., JAXA Institute of Space and Astronautical Sci."	3-1-1 Yoshinodai	"Sagamihara, Kanagawa 229-8510, Japan"	taku@planeta.sci.isas.jaxa.jp		
+TAG	Goudge	Timothy A. Goudge	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	tim_goudge@brown.edu		
+TBM	McCord	Thomas B. McCord	"HIGP, Univ. Hawaii"	2525 Correa Rd. 	"Honolulu, HI 96822"	tom@kahana.pgd.hawaii.edu 		
+TCP	Prissel	Tabb C. Prissel	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	tabb_prissel@brown.edu		
+TDH	Herbert	Timothy D. Herbert	Dept. of Geological Sciences	Brown University	"Providence, RI 02912"	timothy_herbert@brown.edu		
+TGS	Sharp	Thomas G. Sharp	"School of Earth & Space Exploration, Arizona State University"	PO Box 871404	"Tempe, AZ 85287-1404"	tom.sharp@asu.edu		
+THB	Burbine 	Thomas H. Burbine 	"Astronomy Dept., Univ. of Massachusetts"	"LGRT-B-619E, 710 N. Pleasant St."	"Amherst, MA 01003"	tomburbine@astro.umass.edu		
+THE	Eun	Tai Hee Eun	Brown University	"Box D, Engineering"	"Providence, RI 02912"			
+TJM	McCoy	Tim McCoy	Smithsonian Institution	Dept. of Mineral Sciences	"Washington, DC 20560-0117"	mccoyt@si.edu		
+TJW	Webster	Thomas J. Webster	"School of Engineering & Department of Orthopaedics, Brown University"	Box D	"Providence, RI 02912"	thomas_webster@brown.edu		
+TLD	Dunn	Tasha L. Dunn	University of Tennessee	"Department of Earth and Planetary Sciences, 1412 Circle Drive"	"Knoxville, TN 37996"	tldunn@ilstu.edu		
+TLM	Munsat	Tobin L. Munsat	"Department of Physics, University of Colorado"	390 UCB	"Boulder, CO 80309"	tobin.munsat@colorado.edu		
+TLR	Roush	Ted L. Roush	NASA Ames Research Center	Code SST	"Moffett Field, CA 94035"	ted.l.roush@nasa.gov		
+TXH	Hiroi 	Takahiro Hiroi	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	takahiro_hiroi@brown.edu	1-401-863-3776	
+TXN	Nakamura	Tomoki Nakamura	"Division of Earth and Planetary Materials Science, Tohoku University"	Aoba	"Sendai, Miyagi 980-8578, Japan"	tomoki@m.tohoku.ac.jp	81-22-795-6651	
+UNH	Horodyskyj	Ulyana N. Horodyskyj	University of Colorado	"2200 Colorado Ave., UCB 399"	"Boulder, CO 80309"	ulyana.horodyskyj@colorado.edu		
+V1S	Sun	Vivian Sun	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	vivian_sun@brown.edu		
+VPZ	Zabielski 	Victor P. Zabielski 	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"			
+VRB	Baker	Victor R. Baker	University of Arizona 	"Dept. Hydrology & Water Resources, PO Box 210072"	"Tucson, AZ 85721"	baker@hwr.arizona.edu		
+VVB	Busarev 	Vladimir Busarev	Moscow University 	Sternberg State Astron. Inst. 	"119899 Moscow, Russia "	busarev@sai.msu.ru		
+VXF	Feldman 	V. Feldman						
+WHF	Farrand 	William H. Farrand	Space Science Institute	"4750 Walnut Street, #205"	"Boulder, CO 80031"	farrand@spacescience.org		
+WKH	Hartman 	William K. Hartman	Planetary Science Inst. 	620 N. Sixth Ave. 	"Tucson, AZ85705 "			
+WMB	Behr	Whitney M. Behr	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	whitney_behr@brown.edu		
+WMR	Risen 	William M. Risen	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"	william_risen_jr@brown.edu		
+WMV	Vaughan	William M. Vaughan	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	william_vaughan@brown.edu		
+WRP	Patterson	William R. Patterson	Brown University	Dept. of Engineering	"Providence, RI 02912"	william_patterson_iii@brown.edu	1-401-863-1449	
+WWS	Stoner	William W. Stoner 	SAIC	"20 Burlington Mall Rd., Suite "	"Burlington, MA 01803-4126 "	wstoner@bos.saic.com		
+XJH	Hu	Xiangjun Hu 	Brown University	Dept. of Chemistry	"Providence, RI 02912"			
+XLS	Sun	Xiaolian	Brown University	Dept. of Chemistry	"Providence, RI 02912"	xiaolian_sun@brown.edu		
+Y1L	Liu	Yang Liu	Jet Propulsion Laboratory	"M/S 183-326, 4800 Oak Grove Drive"	"Pasadena, CA 91109"	yang.liu@jpl.nasa.gov		
+YGS	Shkuratov	Yurij G. Shkuratov	Astronomical Institute of Kharkov National University	35 Sumskaya Street	"Kharkov, 61022, Ukraine"	shkuratov@vk.kh.ua		
+YLL	Liang	Yan Liang	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"	yan_liang@brown.edu		
+YXU	Yuji	Yuji Ueda	University of Tokyo	Earth & Planet. Sci.	"Hongo, Tokyo 113, Japan"	yueda@space.eps.s.u-tokyo.ac.jp		
+YZW	Wang	Yongzhong Wang	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"			
+YZY	Yang	Yazhou	Brown University	"Dept. of Earth, Environmental and Planetary Sciences"	"Providence, RI 02912"	yangyazhou1@gmail.com 		
+ZBH	Hu	Zhengbo (Bob) Hu	Brown University	"Box H, Dept. of Chemistry"	"Providence, RI 02912"			
+ZFB	Burton	Zachary F. M. Burton	Stanford University	Dept. of Geological Sciences	"Stanford, CA 94305-2115"	zburton@stanford.edu		
+ZJB	Bortolot	Zachary J. Bortolot 	Brown University	Dept. of Geological Sciences	"Providence, RI 02912"			

@@ -1,0 +1,1597 @@
+PO	GeneralType	Type	SubType
+LU	Experimental	Polymict Breccia	Fused Impact Melt Breccia 
+LU	Experimental	Polymict Breccia Glass	Fused Vesicular Micropoikilitic Impact Breccia
+LU	Man-Made	Mixture 	Lunar Rock Crystal Glass
+LU	Mineral 	Pristine Silicate (Neso) 	Dunite Olivine
+LU	Mineral 	Silicate	Plagioclase 
+LU	Mineral 	Silicate (Ino) 	Norite Pyroxene Orthopyroxene 
+LU	Mineral 	Silicate (Ino) 	Pyroxene Clinopyroxene
+LU	Mineral 	Silicate (Neso) 	Olivine 
+LU	Mineral 	Silicate (Tecto)	Maskelynite 
+LU	Mineral 	Silicate (Tecto)	Plagioclase 
+LU	Mineral Sep.	Pristine Silicate (Tecto)	Plagioclase Anorthite Anorthosite 
+LU	Rock	1-2=Pristine/3-5=Breccia	1=Anorthosite/2=Norite/3-5=Regolith Breccia Mrx 
+LU	Rock	A-D=Pristine/E-I=Breccia	AnorthositeAB/Gabbroic AnorthositeCD/Breccia Mrx
+LU	Rock	Breccia 	Regolith Breccia
+LU	Rock	Breccia/Pristine	Matrix Breccia/Gabbroic Anorthosite 
+LU	Rock	Highland	Bulk
+LU	Rock	Highland Breccia	Bulk
+LU	Rock	Igneous 	(Clast) 
+LU	Rock	Igneous 	Norite
+LU	Rock	Igneous Plutonic	Noritic Anorthosite Clast 
+LU	Rock	Igneous Plutonic	Troctolite
+LU	Rock	Igneous Plutonic	Troctolite Impact Melt Clast
+LU	Rock	Igneous Plutonic	Troctolite Olivine
+LU	Rock	Igneous Pyroclastic 	Bulk
+LU	Rock	Igneous Volcanic	Basalt
+LU	Rock	Igneous Volcanic	Basalt Rock-Glass Mixture 
+LU	Rock	Igneous Volcanic	Intersertal Basalt
+LU	Rock	Igneous Volcanic	Mare Basalt 
+LU	Rock	Igneous Volcanic	Plagioclase/Pyroxene Glass
+LU	Rock	Igneous Volcanic	Porphyritic Olivine-Pyroxene Basalt 
+LU	Rock	Igneous Volcanic	Porphyritic Pyroxene Basalt 
+LU	Rock	Igneous Volcanic	Porphyritic Pyroxene-Olivine Basalt 
+LU	Rock	Impact Melt 	Glass 
+LU	Rock	Impact Melt 	Glass + Basaltic Melt 
+LU	Rock	Impact Melt 	Glass + Lithic
+LU	Rock	Impact Melt 	Ropy Glass
+LU	Rock	Impact Melt 	
+LU	Rock	Mare Breccia	Bulk
+LU	Rock	Mare Breccia	
+LU	Rock	Monomict Breccia	Cataclastic Gabbro (Olivine)
+LU	Rock	Monomict Breccia	Cataclastic Metagabbro
+LU	Rock	Polymict Breccia	(Clast) 
+LU	Rock	Polymict Breccia	Clast-Rich Impact Melt Breccia
+LU	Rock	Polymict Breccia	Dark-Matrix Regolith Breccia
+LU	Rock	Polymict Breccia	Fragmental Breccia
+LU	Rock	Polymict Breccia	Fragmental Breccia Norite 
+LU	Rock	Polymict Breccia	Fragmental Breccia(?) 
+LU	Rock	Polymict Breccia	Glass-coated Regolith Breccia 
+LU	Rock	Polymict Breccia	Glassy melt Breccia 
+LU	Rock	Polymict Breccia	Granulitic Impactite
+LU	Rock	Polymict Breccia	Impact Melt Breccia 
+LU	Rock	Polymict Breccia	Impact Melt Breccia Clast 
+LU	Rock	Polymict Breccia	Impact Melt Dike Cataclastic Norite 
+LU	Rock	Polymict Breccia	Light-Matrix Fragmental Breccia 
+LU	Rock	Polymict Breccia	Low-Calcium Impact Melt Breccia 
+LU	Rock	Polymict Breccia	Micropoikilitic Impact Melt Breccia 
+LU	Rock	Polymict Breccia	Poikilitic Impact Melt Breccia Clast
+LU	Rock	Polymict Breccia	Regolith Breccia
+LU	Rock	Polymict Breccia	Vesicular Micropoikilitic Impact Melt Breccia 
+LU	Rock	Polymict Breccia	
+LU	Rock	Pristine	Noritic Troctolite/Troctolite 
+LU	Rock	Pristine Plutonic 	Dunite Olivine
+LU	Rock	Pristine Plutonic 	Ferroan Anorthosite Anorthite 
+LU	Rock		(Clast) 
+LU	Rock		Glass 
+LU	Rock Fines	Igneous Volcanic	Poikilitic Plagioclase Basalt 
+LU	Rock Powder 	Igneous Volcanic	Basalt
+LU	Rock Powder 	Polymict Breccia	Regolith Breccia
+LU	Soi;	Highland Boundary 	Nonmagnetic 
+LU	Soil	Highland	Bulk
+LU	Soil	Highland	Bulk Core Sample
+LU	Soil	Highland	Bulk Immature 
+LU	Soil	Highland	Bulk Mature 
+LU	Soil	Highland	Bulk Mixture
+LU	Soil	Highland	Bulk or Nonmagnetic (see text)
+LU	Soil	Highland	Bulk Submature
+LU	Soil	Highland	Magnetic
+LU	Soil	Highland	Magnetic Mixture
+LU	Soil	Highland	Mixture 
+LU	Soil	Highland	Nonmagnetic 
+LU	Soil	Highland	Nonmagnetic Mixture 
+LU	Soil	Highland	
+LU	Soil	Highland Boundary 	Bulk
+LU	Soil	Highland Boundary 	Magnetic
+LU	Soil	Highland Boundary 	Nonmagnetic 
+LU	Soil	Highland/Mantle 	Bulk
+LU	Soil	Highland/Mantle 	Magnetic
+LU	Soil	Highland/Mantle 	Nonmagnetic 
+LU	Soil	Mare	Bulk
+LU	Soil	Mare	Bulk Core Sample
+LU	Soil	Mare	Bulk Core Sample Mixture
+LU	Soil	Mare	Bulk Mixture
+LU	Soil	Mare	Magnetic
+LU	Soil	Mare	Magnetic Mixture
+LU	Soil	Mare	Nonmagnetic 
+LU	Soil	Mare	Nonmagnetic Mixture 
+LU	Soil	Mare	Sorted
+LU	Soil	Mare	
+LU	Soil	Mare Breccia	Aglutinate
+LU	Soil	Mare Breccia	Bulk
+LU	Soil	Mare Breccia	Magnetic
+LU	Soil	Mare Breccia	Nonmagnetic 
+LU	Soil	Mare/Mantle 	Bulk
+LU	Soil	Mare/Mantle 	Bulk Core Sample
+LU	Soil	Mare/Mantle 	Magnetic
+LU	Soil	Mare/Mantle 	Nonmagnetic 
+LU	Soil	Mixture 	Bulk
+LU	Soil		Black Spherules 
+LU	Soil		Bulk
+LU	Soil		Green Glass 
+LU	Soil		Magnetic
+LU	Soil		Mixture 
+LU	Soil		Orange Glass
+LU			Bulk
+LU			
+NE	Mineral 	Oxide 	Chromite
+NE	Mineral 	Silicate (Ino)	Enstatite Orthopyroxene Pyroxene Aubrite
+PE	Experimental	Silicate (Neso)	Olivine Hortonolite Reacted 
+PE	Experimental		Eroded Soil 
+TE	Man-Made 	Mixture 	50/50 Olivine/Anorthite 
+TE	AMP 	Dune Sand 	
+TE	Biologica 	Plant 	Grass 
+TE	Biological	Animal	Anomia Simplex
+TE	Biological	Animal	Barnacle
+TE	Biological	Animal	Black Coral 
+TE	Biological	Animal	Brachiopod
+TE	Biological	Animal	Clam
+TE	Biological	Animal	Clam Quahog 
+TE	Biological	Animal	Clam Shell
+TE	Biological	Animal	Clypeaster Rosacea
+TE	Biological	Animal	Conch Shell 
+TE	Biological	Animal	Coral 
+TE	Biological	Animal	Coral (Acropora cervicornis)
+TE	Biological	Animal	Coral (Halimeda)
+TE	Biological	Animal	Echinoderm
+TE	Biological	Animal	Echinoid
+TE	Biological	Animal	Echinoid Mellita Quinquiesperforata 
+TE	Biological	Animal	Foraminifera Archais
+TE	Biological	Animal	Foraminifera Cyclorbiculina 
+TE	Biological	Animal	Goniolithon 
+TE	Biological	Animal	Gorgonian Sea Whip
+TE	Biological	Animal	Halimeda
+TE	Biological	Animal	Lytechinus
+TE	Biological	Animal	Lytechinus variegatus 
+TE	Biological	Animal	Ooids 
+TE	Biological	Animal	Oyster
+TE	Biological	Animal	Sand Dollar 
+TE	Biological	Animal	Sand Dollar (Encope marginata)
+TE	Biological	Animal	Sea Biscuit (Clypeaster rosaceus) 
+TE	Biological	Animal	Sea Bisquit 
+TE	Biological	Animal	Sea Urchin
+TE	Biological	Animal	Strombus Gigas
+TE	Biological	Animal	
+TE	Biological	Animal Carbonate	Coral Acropora Palmata
+TE	Biological	Animal Carbonate	Coral Aragonite 
+TE	Biological	Animal Carbonate	Coral Halimeda incrassata 
+TE	Biological	Animal Carbonate	Eggshell
+TE	Biological	Animal Carbonate	Sand Dollars (High-Mg Calcite)
+TE	Biological	Carbonate 	Aragonite 
+TE	Biological	Carbonate 	Calcite 
+TE	Biological	Fungus	Macrobytroidal Fungus 
+TE	Biological	Plant 	Algae 
+TE	Biological	Plant 	Bark
+TE	Biological	Plant 	Barley Tops 
+TE	Biological	Plant 	Big Sagebrush Leaf
+TE	Biological	Plant 	Cocoa 
+TE	Biological	Plant 	Cotton
+TE	Biological	Plant 	Dead Grass
+TE	Biological	Plant 	Dried Grass 
+TE	Biological	Plant 	Goniolithon (red algae) 
+TE	Biological	Plant 	Grass 
+TE	Biological	Plant 	Grass Ash 
+TE	Biological	Plant 	Grass Brown 
+TE	Biological	Plant 	Grass Burnt 
+TE	Biological	Plant 	Grass Yellow
+TE	Biological	Plant 	Green Maple Leaf
+TE	Biological	Plant 	Green Sycamore Leaf 
+TE	Biological	Plant 	Leaf Bark 
+TE	Biological	Plant 	Maple Leaf Buds Stems 
+TE	Biological	Plant 	Red Leaf
+TE	Biological	Plant 	Soybean Seed
+TE	Biological	Plant 	Stem
+TE	Biological	Plant 	Wood Ash
+TE	Biological	Tree	Beach Leaf
+TE	Biological	Tree	Leaf
+TE	Biological	Tree	Maple Tree Buds Stems 
+TE	Biological	Tree	Norway Maple Bark 
+TE	Biological	Tree	Oak Leaf
+TE	Biological	Tree	Pine Branch 
+TE	Biological	Tree	Red Maple Leaf
+TE	Biological	Tree	Silver Birch Bark 
+TE	Biological	Tree	Sycamore Maple Leaf 
+TE	Biological	Tree	White Birch Bark
+TE	Biological		Cheese
+TE	Biological		Moss
+TE	Biological		
+TE	Rock	Sedimentary 	Shale 
+TE	Coating 	Polymer 	Er Polysiloxane 
+TE	Coating 	Polymer 	"Yb,Er Polysiloxane"
+TE	Element 	Metal 	Copper
+TE	Element 	Metal 	Gold
+TE	Element 	Metal 	Iron
+TE	Element 	Metal 	Nickel
+TE	Element 		Silicon 
+TE	Experimental	Carbonate 	Calcite Reacted 
+TE	Experimental	Carbonate 	Dolomite(?) Shocked 
+TE	Experimental	Carbonate 	Heated Gaylussite 
+TE	Experimental	Carbonate 	Heated Hydromagnesite 
+TE	Experimental	Carbonate 	Heated Hydrotalcite 
+TE	Experimental	Carbonate 	Heated Manasseite 
+TE	Experimental	Carbonate 	Heated Pirssonite 
+TE	Experimental	Carbonate 	Heated Thermonatrite
+TE	Experimental	Carbonate 	Heated Trona
+TE	Experimental	Deep Ocean Sediment 	Dithionite Treated Hematite Clay
+TE	Experimental	Heated	Nontronite
+TE	Experimental	Hydroxide	Altered Ferrihydrite
+TE	Experimental	Hydroxide	Altered Ferrihydrite Alanine
+TE	Experimental	Hydroxide	Altered Ferrihydrite Glucose
+TE	Experimental	Igneous	Laser-Irradiated Palagonite
+TE	Experimental	Igneous 	Basalt SNC-like Oxidized
+TE	Experimental	Igneous 	Heated Palagonite 
+TE	Experimental	Igneous 	Oxidized Basalt 
+TE	Experimental	Igneous 	Oxidized Basalt SNC-like
+TE	Experimental	Igneous 	Shocked Gabbro
+TE	Experimental	Igneous 	Synthetic Basalt
+TE	Experimental	Igneous 	Synthetic Basalt Oxidized 
+TE	Experimental	Igneous 	Synthetic SNC-like Basalt 
+TE	Experimental	Igneous Plutonic	Gabbro Shocked
+TE	Experimental	Igneous Plutonic	Shocked Gabbro
+TE	Experimental	Igneous Volcanic	Basalt Shocked
+TE	Experimental	Igneous Volcanic	Heated Basalt 
+TE	Experimental	Igneous Volcanic	Heated Basalt Olivine Tholeiite 
+TE	Experimental	Igneous Volcanic	Oxidized Basalt 
+TE	Experimental	Impact Residue	Shocked 
+TE	Experimental	Iron Oxide	Goethite Alanine DTA Heated 
+TE	Experimental	Iron Oxide	Goethite DTA Heated 
+TE	Experimental	Metamorphic 	Acidified Limestone 
+TE	Experimental	Metamorphic 	Carbonaceous Marl Toluene-Insoluble 
+TE	Experimental	Metamorphic 	Coal Anthracite Toluene-Insoluble 
+TE	Experimental	Metamorphic 	Coal Lignite Toluene-Insoluble
+TE	Experimental	Metamorphic 	Coal Toluene-Insoluble
+TE	Experimental	Metamorphic 	Diatomaceous Shale Toluene-Insoluble
+TE	Experimental	Metamorphic 	Limestone Toluene-Insoluble 
+TE	Experimental	Metamorphic 	Shale Toluene-Insoluble 
+TE	Experimental	Metamorphic 	Toluene-Insoluble Oil Sand
+TE	Experimental	Metamorphic Organic 	Heated Coal Medium-volatility Bituminous
+TE	Experimental	Mixture 	Attapulgite NH4 Leached
+TE	Experimental	Mixture 	Attapulgite NH4 Non-Leached
+TE	Experimental	Mixture 	Illite NH4 Leached
+TE	Experimental	Mixture 	Illite NH4 Non-Leached
+TE	Experimental	Mixture 	Laser-Irradiated Asteroid Analog
+TE	Experimental	Organic 	Shocked Asphaltite
+TE	Experimental	Organic 	Toluene-Insoluble Albertite 
+TE	Experimental	Organic 	Toluene-Insoluble Asphaltum 
+TE	Experimental	Organic 	Toluene-Insoluble Oil Shale 
+TE	Experimental	Oxide 	Altered Hamatite
+TE	Experimental	Oxide 	Altered Hematite DTA Heated
+TE	Experimental	Oxide 	Altered Maghemite
+TE	Experimental	Oxide 	Inverted Maghemite Iron Oxide
+TE	Experimental	Oxide 	Oxidized Magnetite Iron Oxide
+TE	Experimental	Oxide 	Shocked Ilmenite
+TE	Experimental	Sediment Pelagic	Acidified Nanofossil Ooze 
+TE	Experimental	Sedimentary 	Sandstone Toluene-Insoluble 
+TE	Experimental	Silicate	Olivine Fayalite Reacted
+TE	Experimental	Silicate	Olivine Heated
+TE	Experimental	Silicate	Olivine Shocked 
+TE	Experimental	Silicate (Ino)	Laser Irradiated Pyroxene 
+TE	Experimental	Silicate (Ino)	Pyroxene Clinopyroxene
+TE	Experimental	Silicate (Ino)	Shocked Orthopyroxene Pyroxene
+TE	Experimental	Silicate (Ino)	Shocked Pyroxene Clinopyroxene
+TE	Experimental	Silicate (Ino) 	Pyroxene Clinopyroxene Augite Heated
+TE	Experimental	Silicate (Ino) 	Pyroxene Clinopyroxene Wollastonite Reacted 
+TE	Experimental	Silicate (Ino) 	Pyroxene Orthopyroxene Bronzite Heated
+TE	Experimental	Silicate (Ino) 	Pyroxene Orthopyroxene Enstatite Reduced
+TE	Experimental	Silicate (Ino) 	Pyroxene Orthopyroxene Heated 
+TE	Experimental	Silicate (Ino) 	Pyroxene Shocked
+TE	Experimental	Silicate (Neso)	Olivine Fayalite Heated Oxidized
+TE	Experimental	Silicate (Neso)	Olivine Fayalite Reacted
+TE	Experimental	Silicate (Neso)	Olivine Forsterite Peridot Heated 
+TE	Experimental	Silicate (Neso)	Olivine Heated
+TE	Experimental	Silicate (Neso)	Olivine Hortonolite Heated
+TE	Experimental	Silicate (Neso)	Olivine Hortonolite Oxidized Heated 
+TE	Experimental	Silicate (Neso)	Olivine Peridot Heated Oxidized 
+TE	Experimental	Silicate (Neso) 	Irradiated Olivine
+TE	Experimental	Silicate (Neso) 	Laser-irradiated Olivine
+TE	Experimental	Silicate (Neso) 	Olivine Fayalite Reacted
+TE	Experimental	Silicate (Phyllo) 	Acidified Montmorillonite 
+TE	Experimental	Silicate (Phyllo) 	Acidified Nontronite
+TE	Experimental	Silicate (Phyllo) 	Acidified Smectite
+TE	Experimental	Silicate (Phyllo) 	Heated Chlorite 
+TE	Experimental	Silicate (Phyllo) 	Heated Montmorillonite Clay
+TE	Experimental	Silicate (Phyllo) 	Heated Palagonite 
+TE	Experimental	Silicate (Phyllo) 	Heated Saponite 
+TE	Experimental	Silicate (Phyllo) 	Heated Serpentine Antigorite
+TE	Experimental	Silicate (Phyllo) 	Heated Serpentine Chrysotile Clinochrysotile
+TE	Experimental	Silicate (Phyllo) 	Heated Serpentine Lizardite 
+TE	Experimental	Silicate (Phyllo) 	NH4-treated Kga-1b
+TE	Experimental	Silicate (Phyllo) 	NH4-treated leached Montomorillonite
+TE	Experimental	Silicate (Phyllo) 	NH4-treated Montmorillonite 
+TE	Experimental	Silicate (Tecto)	Heated Plagioclase
+TE	Experimental	Silicate (Tecto)	Shocked plagioclase 
+TE	Experimental	Silicate (Tecto) 	Feldspar Shocked
+TE	Experimental	Silicate (Tecto) 	Shocked Feldspar
+TE	Experimental	Soil	Brine 
+TE	Experimental	Sulfate 	Gypsum Cemented Ground
+TE	Experimental	Sulfate 	Gypsum Cemented Ground Packed 
+TE	Experimental	Sulfate 	Magnesium Sulfate Cemented
+TE	Experimental	Sulfate 	Magnesium Sulfate Cemented Ground 
+TE	Experimental	Sulfate 	Magnesium Sulfate Cemented Ground Packed
+TE	Experimental	Sulfate 	Water Dissolved Copiapite 
+TE	Experimental	Sulphide	Pyrrhotite Reacted
+TE	Experimental	Sulphide	Troilite Reacted
+TE	Experimental		Shocked 
+TE	Man-Made	Igneous	Synthetic Basalt
+TE	Man-Made	Alcohol	Ethanol 
+TE	Man-Made	Carbide 	Iron Carbide Fe3C 
+TE	Man-Made	Carbide 	Silicon Carbide 
+TE	Man-Made	Chemical Compound	Iron Chloride
+TE	Man-Made	Chemical Compound 	"1,1,1,2-tetrafluoroethane "
+TE	Man-Made	Chemical Compound 	"1,1-Difluoroethane"
+TE	Man-Made	Chemical Compound 	"2-Chloro-1,1,1,2-Tetrafluoroethane"
+TE	Man-Made	Chemical Compound 	Chlorodifluoromethane 
+TE	Man-Made	Chemical Compound 	Chlorodifluoromethane Chlorotetrafluoromethane
+TE	Man-Made	Chemical Compound 	Chloropentafluoroethane Chlorodifluoromethane 
+TE	Man-Made	Chemical Compound 	CuCl2 
+TE	Man-Made	Chemical Compound 	CuII Hydrotris Borate 
+TE	Man-Made	Chemical Compound 	CuTpCF3CF3 (acetone)
+TE	Man-Made	Chemical Compound 	difluoromethane 
+TE	Man-Made	Chemical Compound 	Dy(NO3)3
+TE	Man-Made	Chemical Compound 	Er(NO3)3
+TE	Man-Made	Chemical Compound 	Er(NO3)3 SiO2 
+TE	Man-Made	Chemical Compound 	Er+Yb Gel 
+TE	Man-Made	Chemical Compound 	Freon 
+TE	Man-Made	Chemical Compound 	Gas Mixture 
+TE	Man-Made	Chemical Compound 	hloropentafluoroethane Chlorodifluoromethane Gas
+TE	Man-Made	Chemical Compound 	Mixture 
+TE	Man-Made	Chemical Compound 	Ni(acac)2 
+TE	Man-Made	Chemical Compound 	Oil 
+TE	Man-Made	Chemical Compound 	Organic 
+TE	Man-Made	Chemical Compound 	PdCl2 
+TE	Man-Made	Chemical Compound 	Pentafluoroethane 
+TE	Man-Made	Chemical Compound 	Pentafluoroethane Tetrafluoroethane 
+TE	Man-Made	Chemical Compound 	Pentafluoroethane Tetrafluoromethane Gas
+TE	Man-Made	Chemical Compound 	Polyurethane
+TE	Man-Made	Chemical Compound 	Rh Aerogel
+TE	Man-Made	Chemical Compound 	Silica Chitosan Aerogel 
+TE	Man-Made	Chemical Compound 	Silica Chitosan Er(III) Aerogel 
+TE	Man-Made	Chemical Compound 	Silica Chitosan Transition Metal Aerogel
+TE	Man-Made	Chemical Compound 	Silica Chitosan Yb(III) Aerogel 
+TE	Man-Made	Chemical Compound 	Silica Yb(III) Aerogel
+TE	Man-Made	Chemical Compound 	Silicon Carbide 
+TE	Man-Made	Chemical Compound 	Sm(NO3)3
+TE	Man-Made	Chemical Compound 	Yb(acac)3 
+TE	Man-Made	Chemical Compound 	
+TE	Man-Made	Coating 	Er2O3-42SiO2 Al2O3
+TE	Man-Made	Coating 	Glass Ethanol 
+TE	Man-Made	Coating 	Glass Lotion Coated 
+TE	Man-Made	Coating 	Glass Oily
+TE	Man-Made	Coating 	Glass Soapy 
+TE	Man-Made	Coating 	Gold Diffuse
+TE	Man-Made	Coating 	Ho2O3-42SiO2 Al2O3
+TE	Man-Made	Coating 	Nd2O3-42SiO2 Al2O3
+TE	Man-Made	Coating 	Sm2O3-42SiO2 Al2O3
+TE	Man-Made	Coating 	Tb2O3-42SiO2 Al2O3
+TE	Man-Made	Exhaust 	Rocket Motor
+TE	Man-Made	Exhaust Soot	Airbag
+TE	Man-Made	Food	Chocolate 
+TE	Man-Made	Food	Chocolate Cake
+TE	Man-Made	Food	Chocolate Candy 
+TE	Man-Made	Glass 	Blue Glass
+TE	Man-Made	Glass 	Blue/Red Glass Mixtures 
+TE	Man-Made	Glass 	Brown 
+TE	Man-Made	Glass 	Green 
+TE	Man-Made	Glass 	Hydice Filter 
+TE	Man-Made	Glass 	Lunar Analogue
+TE	Man-Made	Glass 	Red Glass 
+TE	Man-Made	Glass 	Sample Dish 
+TE	Man-Made	Glass 	Slide Glass 
+TE	Man-Made	Glass 	Thin Section Quartz 
+TE	Man-Made	Glass 	White 
+TE	Man-Made	Glass 	
+TE	Man-Made	Glass Mixture 	
+TE	Man-Made	Igneous 	Synthetic Andesite Glass Oxidized SNC-like
+TE	Man-Made	Igneous 	Synthetic Andesite Oxidized SNC-like
+TE	Man-Made	Igneous 	Synthetic Crystalline Andesite
+TE	Man-Made	Igneous 	Synthetic Martian Andesite SNC-like 
+TE	Man-Made	Igneous 	Synthetic Pathfinder Andesite 
+TE	Man-Made	Igneous 	Synthetic SNC-type Basalt 
+TE	Man-Made	Igneous 	Synthetic Volcanic Glass Oxidized 
+TE	Man-Made	Igneous 	Volcanic Glass Synthetic Oxidized 
+TE	Man-Made	Igneous 	ynthetic Volcanic Crystallized Andesite Oxidized
+TE	Man-Made	Industrial Ash	Metallic
+TE	Man-Made	Ion Implant 	MgO Carbon
+TE	Man-Made	Melt	
+TE	Man-Made	Metal 	Iron
+TE	Man-Made	Metal 	Steel 
+TE	Man-Made	Milling waste product 	Mill tailings 
+TE	Man-Made	Mineral 	50/50 Olivine/Bronzite
+TE	Man-Made	Mineral 	Cementite 
+TE	Man-Made	Mineral 	Orthopyroxene Fs85
+TE	Man-Made	Mirror	Gold
+TE	Man-Made	Mixture	Altered Hematite Alanine
+TE	Man-Made	Mixture	Altered Hematite Alanine DTA Heated
+TE	Man-Made	Mixture	Altered Maghemite Alanine 
+TE	Man-Made	Mixture	Altered Maghemite Glucose
+TE	Man-Made	Mixture	Altered Magnetite Alanine 
+TE	Man-Made	Mixture	Altered Magnetite Glucose
+TE	Man-Made	Mixture	Ferrihydrite Glucose
+TE	Man-Made	Mixture	Ferrihydrite Glucose DTA Heated
+TE	Man-Made	Mixture	
+TE	Man-Made	Mixture 	0/100 Quartz/Alunite
+TE	Man-Made	Mixture 	0/100 Quartz/Muscovite
+TE	Man-Made	Mixture 	16.7/16.7/66.7 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	16.7/41.7/41.7 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	16.7/66.7/16.7 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	2/98 BIT101/OLV003
+TE	Man-Made	Mixture 	2/98 CEM101/OLV003
+TE	Man-Made	Mixture 	2/98 CTE101/OLV003
+TE	Man-Made	Mixture 	2/98 DIA101/OLV003
+TE	Man-Made	Mixture 	2/98 GRP101/OLV003
+TE	Man-Made	Mixture 	2/98 GRP102/OLV003
+TE	Man-Made	Mixture 	2/98 SIC101/OLV003
+TE	Man-Made	Mixture 	25/75 Blue/Red Glass
+TE	Man-Made	Mixture 	25/75 Bronzite/Anorthite
+TE	Man-Made	Mixture 	25/75 Calcite/Chlorite
+TE	Man-Made	Mixture 	25/75 CEM101/OLV003 
+TE	Man-Made	Mixture 	25/75 Olivine/Anorthite 
+TE	Man-Made	Mixture 	25/75 Olivine/Bronzite
+TE	Man-Made	Mixture 	25/75 Quartz/Alunite
+TE	Man-Made	Mixture 	25/75 Quartz/Muscovite
+TE	Man-Made	Mixture 	25/75 WUS101/OLV003 
+TE	Man-Made	Mixture 	33.3/33.3/33.3 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	35mg TiO2 in Amersil
+TE	Man-Made	Mixture 	41.7/16.7/41.7 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	41.7/41.7/16.7 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	50/50 Blue/Red Glass
+TE	Man-Made	Mixture 	50/50 Bronzite/Anorthite
+TE	Man-Made	Mixture 	50/50 Calcite/Chlorite
+TE	Man-Made	Mixture 	50/50 Olivine/Pyroxene
+TE	Man-Made	Mixture 	50/50 Quartz/Alunite
+TE	Man-Made	Mixture 	50/50 Quartz/Muscovite
+TE	Man-Made	Mixture 	50/50/ Quartz/Alunite 
+TE	Man-Made	Mixture 	66.7/16.7/16.7 Olivine/Bronzite/Anorthite 
+TE	Man-Made	Mixture 	75/25 Blue/Red Glass
+TE	Man-Made	Mixture 	75/25 Bronzite/Anorthite
+TE	Man-Made	Mixture 	75/25 Olivine/Anorthite 
+TE	Man-Made	Mixture 	75/25 Olivine/Bronzite
+TE	Man-Made	Mixture 	75/25 Quartz Alunite
+TE	Man-Made	Mixture 	75/25 Quartz/Alunite
+TE	Man-Made	Mixture 	75/25 Quartz/Muscovite
+TE	Man-Made	Mixture 	80/20 Calcite/Chlorite
+TE	Man-Made	Mixture 	90/10 Calcite/Chlorite
+TE	Man-Made	Mixture 	95/5 Montmorillonite/Carbon 
+TE	Man-Made	Mixture 	98/2 Montmorillonite/Carbon 
+TE	Man-Made	Mixture 	99.5/.5 Montmorillonite/Carbon
+TE	Man-Made	Mixture 	99.9/.1 Montmorillonite/Carbon
+TE	Man-Made	Mixture 	Aluminum Oxide
+TE	Man-Made	Mixture 	Antigorite Carbon Lampblack 
+TE	Man-Made	Mixture 	"Aragonite, Cotton "
+TE	Man-Made	Mixture 	"Aragonite, Protein"
+TE	Man-Made	Mixture 	Aritificail soil
+TE	Man-Made	Mixture 	Aubrite Troilite
+TE	Man-Made	Mixture 	Basalt Ilmenite 
+TE	Man-Made	Mixture 	Binary Pyroxene Clino Diopside Enstatite
+TE	Man-Made	Mixture 	Binary Pyroxene Clinopyroxene Diopside Enstatite
+TE	Man-Made	Mixture 	Binary Pyroxene Ortho Clino Diopside Enstatite
+TE	Man-Made	Mixture 	Biogenic Carbonate Aragonite Organics 
+TE	Man-Made	Mixture 	Calcite end member
+TE	Man-Made	Mixture 	Chlorite Carbon Lampblack 
+TE	Man-Made	Mixture 	Chlorite end-member 
+TE	Man-Made	Mixture 	Chlorite Olivine Fe2O3
+TE	Man-Made	Mixture 	Chlorite Olivine Fe2O3 Asphaltite 
+TE	Man-Made	Mixture 	Coating 
+TE	Man-Made	Mixture 	Fe-Montmorillonite Maghemite
+TE	Man-Made	Mixture 	Fe-Montmorillonite Magnetite
+TE	Man-Made	Mixture 	Ferric-Sulfate-Montmorillonite Maghemite
+TE	Man-Made	Mixture 	Ferric-Sulfate-Montmorillonite Magnetite
+TE	Man-Made	Mixture 	Ferric-Sulfate-Montmorillonite Magnetite Maghemite
+TE	Man-Made	Mixture 	Ferrihydrite Alanine DTA Heated 
+TE	Man-Made	Mixture 	Ferrihydrite Glucose DTA Heated 
+TE	Man-Made	Mixture 	Glass Ilmenite
+TE	Man-Made	Mixture 	Goethite Alanine
+TE	Man-Made	Mixture 	Goethite Alanine DTA Heated 
+TE	Man-Made	Mixture 	Gypsum Oxide
+TE	Man-Made	Mixture 	hra Plagioclase Kieserite Gypsum Jarosite Halite
+TE	Man-Made	Mixture 	Ilmenite Olivine
+TE	Man-Made	Mixture 	Iron Oxide Silicate Sulfate 
+TE	Man-Made	Mixture 	Kaolinite Akanageite
+TE	Man-Made	Mixture 	Kaolinite Fe2O3 
+TE	Man-Made	Mixture 	Kieserite Halite Sylvite Calcite Leonite
+TE	Man-Made	Mixture 	Magnetite Olivine 
+TE	Man-Made	Mixture 	Metal Lampblack 
+TE	Man-Made	Mixture 	Mixed Soil
+TE	Man-Made	Mixture 	Neodym Oxide Phyrophilite 
+TE	Man-Made	Mixture 	Olivine Basalt Ilmenite 
+TE	Man-Made	Mixture 	Olivine Chromite
+TE	Man-Made	Mixture 	Olivine Iron Chromite 
+TE	Man-Made	Mixture 	Olivine Lampblack 
+TE	Man-Made	Mixture 	Olivine Metal 
+TE	Man-Made	Mixture 	Olivine Pyroxene Orthopyroxene
+TE	Man-Made	Mixture 	Olivine Pyroxene Orthopyroxene Metal
+TE	Man-Made	Mixture 	Olivine Pyroxene Orthopyroxene Pyrrhotite 
+TE	Man-Made	Mixture 	OlivineCoal Tar 
+TE	Man-Made	Mixture 	OlivineCTE
+TE	Man-Made	Mixture 	OlivineGraphite 
+TE	Man-Made	Mixture 	OlivineOdessa 
+TE	Man-Made	Mixture 	Olv Opx Cpx 
+TE	Man-Made	Mixture 	Opx Cpx Binary
+TE	Man-Made	Mixture 	Opx Cpx Olv 
+TE	Man-Made	Mixture 	Palagonite Diaspore 
+TE	Man-Made	Mixture 	Palagonite Gypsum 
+TE	Man-Made	Mixture 	Palagonite Magnesium Sulfate
+TE	Man-Made	Mixture 	Palagonite Volcanic Sulfate 
+TE	Man-Made	Mixture 	Pyrophilite Calcite Alunite 
+TE	Man-Made	Mixture 	Pyrox Augit Plagi Bytow Glass Ilmen 
+TE	Man-Made	Mixture 	Pyrox Augit Plagi Bytow Ilmen 
+TE	Man-Made	Mixture 	Pyrox Hyper Olive Forst Plagi Bytow Glass Ilmen 
+TE	Man-Made	Mixture 	Pyrox Hyper Olivi Forst Plagi Bytow Ilmen 
+TE	Man-Made	Mixture 	Pyrox Hyper Plagi Bytow Glass 
+TE	Man-Made	Mixture 	Pyrox Hyper Plagi Bytow Glass Ilmen 
+TE	Man-Made	Mixture 	Pyrox Hyper Plagi Bytow Ilmen 
+TE	Man-Made	Mixture 	Pyroxene Basalt Ilmenite
+TE	Man-Made	Mixture 	Pyroxene Hematite 
+TE	Man-Made	Mixture 	Pyroxene Hypersthene Plagioclase Bytownite
+TE	Man-Made	Mixture 	Pyroxene Metal
+TE	Man-Made	Mixture 	Pyroxene Olivine
+TE	Man-Made	Mixture 	Pyroxene Olivine Anorthite
+TE	Man-Made	Mixture 	Pyroxene Olivine Anorthosite
+TE	Man-Made	Mixture 	Pyroxene Olivine Plagioclase
+TE	Man-Made	Mixture 	Pyroxene Olivine Plagioclase Ilmenite 
+TE	Man-Made	Mixture 	Pyroxene Orthopyroxene Diaspore 
+TE	Man-Made	Mixture 	Pyroxene Orthopyroxene Enstatite Ilmenite 
+TE	Man-Made	Mixture 	Pyroxene Orthopyroxene Lampblack
+TE	Man-Made	Mixture 	Pyroxene Orthopyroxene Metal Lampblack
+TE	Man-Made	Mixture 	Pyroxene Palagonite 
+TE	Man-Made	Mixture 	Pyroxene Plagioclase Ilmenite 
+TE	Man-Made	Mixture 	PyroxeneMetal 
+TE	Man-Made	Mixture 	Quartz
+TE	Man-Made	Mixture 	Quartz Diaspore 
+TE	Man-Made	Mixture 	Quartz Troilite 
+TE	Man-Made	Mixture 	Silicon Carbide (SiC) 
+TE	Man-Made	Mixture 	Volcanic Soil Mg Sulfate
+TE	Man-Made	Mixture 	Volcanic Soil Palagonite Magnesium Sulfate
+TE	Man-Made	Mixture 	Volcanic Soil Palagonite MgSO4 Sulfate
+TE	Man-Made	Mixture 	
+TE	Man-Made	Oxide 	Aluminum Oxide
+TE	Man-Made	Oxide 	Neodymium 
+TE	Man-Made	Paint 	Blue Paint
+TE	Man-Made	Paint 	Brown Paint 
+TE	Man-Made	Paint 	Dark Blue Metallic
+TE	Man-Made	Paint 	Grey Paint
+TE	Man-Made	Paint 	Light Blue Metallic 
+TE	Man-Made	Paint 	White Chip
+TE	Man-Made	Polymer 	Manganese Polysiloxane Ionomer
+TE	Man-Made	Polymer 	Nickel Polysiloxane Ionomer 
+TE	Man-Made	Silicate (Neso)	Olivine Fayalite
+TE	Man-Made	Silicate (Phyllo) 	Illite/Smectite - Rectorite 
+TE	Man-Made	Silicate (Phyllo) 	Montmorillonite 
+TE	Man-Made	Smelter waste product 	Slag
+TE	Man-Made	Soil	Lunar 
+TE	Man-Made	Standard	Diffuse Gold
+TE	Man-Made	Standard	Gold Diffuse
+TE	Man-Made	Standard	Halon 
+TE	Man-Made	Standard	Spectralon
+TE	Man-Made	Standard	Spray Paint Bright Yellow 
+TE	Man-Made	Standard	Spray Paint Flat White
+TE	Man-Made	Standard	Spray Paint Jade Green
+TE	Man-Made	Standard	Spray Paint Pink Fluorescent
+TE	Man-Made	Standard	Spray Paint Sandable Primer 
+TE	Man-Made	Standard	Vinyl 
+TE	Man-Made	Standard	Wavelength Calibration
+TE	Man-Made	Standard	
+TE	Man-Made	Sulfate 	Ferric Sulfate Jarosite 
+TE	Man-Made	Sulfide 	Pyrite
+TE	Man-Made	Sulphide	Troilite
+TE	Man-Made	Synthetic Organic Fiber 	Kevlar
+TE	Man-Made	Tile	
+TE	Man-Made		Glass 
+TE	Man-Made		Mine Tailings 
+TE	Man-Made		
+XT	Meteorite 	Stone 	H4
+XT	Meteorite 	Stone 	H6
+TE	Mineral 	Biogenic Carbonate	Aragonite 
+TE	Mineral 	Biogenic Carbonate	Calcite 
+TE	Mineral 	Boric Acid	Sassolite H3BO3 B(OH)3
+TE	Mineral 	Carbon	Lampblack 
+TE	Mineral 	Carbonate	Aragonite CaCO3
+TE	Mineral 	Carbonate	Calcite CaCO3
+TE	Mineral 	Carbonate	Dolomite CaMg(CO3)2
+TE	Mineral 	Carbonate	Siderite FeCO3
+TE	Mineral 	Carbonate 	Ammonium Carbonate (NH4)CO3 
+TE	Mineral 	Carbonate 	Ankerite
+TE	Mineral 	Carbonate 	Aragonite 
+TE	Mineral 	Carbonate 	Aragonite Speleothem
+TE	Mineral 	Carbonate 	Artinite
+TE	Mineral 	Carbonate 	Azurite Gaylussite
+TE	Mineral 	Carbonate 	Barium Carbonate
+TE	Mineral 	Carbonate 	Brugnatellite 
+TE	Mineral 	Carbonate 	Calcite 
+TE	Mineral 	Carbonate 	Calcite or Coccolite (?)
+TE	Mineral 	Carbonate 	Calcium Carbonate 
+TE	Mineral 	Carbonate 	Cerussite 
+TE	Mineral 	Carbonate 	Coalingite
+TE	Mineral 	Carbonate 	Dawsonite 
+TE	Mineral 	Carbonate 	Dolomite
+TE	Mineral 	Carbonate 	Gaspeite
+TE	Mineral 	Carbonate 	Gaylussite
+TE	Mineral 	Carbonate 	Huntite 
+TE	Mineral 	Carbonate 	Hydromagnesite
+TE	Mineral 	Carbonate 	Hydrotalcite
+TE	Mineral 	Carbonate 	Iceland Spar Calcite
+TE	Mineral 	Carbonate 	Kutnahorite 
+TE	Mineral 	Carbonate 	Lead Carbonate
+TE	Mineral 	Carbonate 	Magnesite 
+TE	Mineral 	Carbonate 	Malachite 
+TE	Mineral 	Carbonate 	Manasseite
+TE	Mineral 	Carbonate 	Manganese Carbonate 
+TE	Mineral 	Carbonate 	Manganoan Calcite 
+TE	Mineral 	Carbonate 	Manganocalcite
+TE	Mineral 	Carbonate 	Mn Calcite
+TE	Mineral 	Carbonate 	Nahcolite 
+TE	Mineral 	Carbonate 	Nickel-Rich Magnesite 
+TE	Mineral 	Carbonate 	Northupite
+TE	Mineral 	Carbonate 	Pirssonite
+TE	Mineral 	Carbonate 	Pyroaurite
+TE	Mineral 	Carbonate 	Rhodochrosite 
+TE	Mineral 	Carbonate 	Siderite
+TE	Mineral 	Carbonate 	Smithsonite 
+TE	Mineral 	Carbonate 	Strontianite
+TE	Mineral 	Carbonate 	Strontium Carbonate 
+TE	Mineral 	Carbonate 	Thermonatrite 
+TE	Mineral 	Carbonate 	Trona 
+TE	Mineral 	Carbonate 	Witherite 
+TE	Mineral 	Carbonate 	Zinc Carbonate
+TE	Mineral 	Chloride	Ammonium Chloride (NH4)Cl 
+TE	Mineral 	Clay	Silicate (Phyllo) 
+TE	Mineral 	Element 	Amorphous Graphite Carbon 
+TE	Mineral 	Element 	Diamond 
+TE	Mineral 	Element 	Graphite
+TE	Mineral 	Element 	Graphite 3R 
+TE	Mineral 	Element 	Sulfur
+TE	Mineral 	Elemental 	Diamond 
+TE	Mineral 	Glass 	Basaltic
+TE	Mineral 	Glass 	Volcanic Tektite
+TE	Mineral 	Halide	Halite
+TE	Mineral 	Hydroxide	Akaganeite
+TE	Mineral 	Hydroxide	Ferrihydrite
+TE	Mineral 	Hydroxide	Ferrihydrite/Goethite 
+TE	Mineral 	Hydroxide	Goethite
+TE	Mineral 	Hydroxide	Lepidocrocite 
+TE	Mineral 	Hydroxide	Manganite MnO(OH)
+TE	Mineral 	Hydroxide	Pyrochroite Mn(OH)2
+TE	Mineral 	Hydroxide 	Bohmite 
+TE	Mineral 	Hydroxide 	Brucite 
+TE	Mineral 	Hydroxide 	Diaspore
+TE	Mineral 	Hydroxide 	Diaspore Manganoan
+TE	Mineral 	Hydroxide 	Gibbsite
+TE	Mineral 	Hydroxide 	Goethite
+TE	Mineral 	Hydroxide 	Manganite 
+TE	Mineral 	Hydroxide 	Manganite 
+TE	Mineral 	Hydroxide 	Portlandite 
+TE	Mineral 	Hydroxides	Gibbsite
+TE	Mineral 	Igneous Plutonic	Olivine Cumulate
+TE	Mineral 	Inosilicate 	Hedenbergite
+TE	Mineral 	Inosilicate 	Orthopyroxene 
+TE	Mineral 	Inosilicate 	Pigeonite 
+TE	Mineral 	Iron Oxide	Hematite
+TE	Mineral 	Iron Oxide	Maghemite alpha-Fe2O3
+TE	Mineral 	Iron Oxide	Magnetite Fe2+Fe3+O4
+TE	Mineral 	Liquid	Fe2(SO4)3 
+TE	Mineral 	Metal 	Aluminum
+TE	Mineral 	Metal 	Awaruite Iron Nickel Alloy
+TE	Mineral 	Metal 	Chrome Ore
+TE	Mineral 	Metal 	Copper
+TE	Mineral 	Metal 	Gold
+TE	Mineral 	Metal 	Iron
+TE	Mineral 	Metal 	Nickel
+TE	Mineral 	Metal 	Nickel Iron Alloy 
+TE	Mineral 	Metal 	Silver
+TE	Mineral 	Metal 	Zinc
+TE	Mineral 	Organic 	Bituminous Mineraloid 
+TE	Mineral 	Organic Hydrocarbon 	Asphaltite
+TE	Mineral 	Oxide	Feroxyhite
+TE	Mineral 	Oxide	Goethite
+TE	Mineral 	Oxide	Hamatite Specular
+TE	Mineral 	Oxide	Hematite
+TE	Mineral 	Oxide	Maghemite 
+TE	Mineral 	Oxide	Magnetite 
+TE	Mineral 	Oxide 	Akaganeite
+TE	Mineral 	Oxide 	Corundum
+TE	Mineral 	Oxide 	Corundum Sapphire 
+TE	Mineral 	Oxide 	Ferric Oxide
+TE	Mineral 	Oxide 	Franklinite 
+TE	Mineral 	Oxide 	Gahnite 
+TE	Mineral 	Oxide 	Hematite
+TE	Mineral 	Oxide 	"Hematite, var specular"
+TE	Mineral 	Oxide 	Hercynite Spinel
+TE	Mineral 	Oxide 	Ilmenite
+TE	Mineral 	Oxide 	Ilmenite Iron Oxide
+TE	Mineral 	Oxide 	Iron Oxide
+TE	Mineral 	Oxide 	Maghemite Iron Oxide
+TE	Mineral 	Oxide 	Magnetite 
+TE	Mineral 	Oxide 	Magnetite Ilmenite Ulvospinel 
+TE	Mineral 	Oxide 	Magnetite Iron Oxide
+TE	Mineral 	Oxide 	Quartz
+TE	Mineral 	Oxide 	Rutile
+TE	Mineral 	Oxide 	Spinel
+TE	Mineral 	Oxide 	Spinel Franklinite
+TE	Mineral 	Oxide 	Spinel Gahnite
+TE	Mineral 	Oxide 	Spinel Pleonaste
+TE	Mineral 	Oxide 	Wustite 
+TE	Mineral 	Oxide Hydroxide	Ferrihydrite
+TE	Mineral 	Oxides	Rutile
+TE	Mineral 	Phosphate 	"Amblygonite (Li,Na)Al(PO4)(F,OH)"
+TE	Mineral 	Phosphate 	Ammonium Phosphate Dibasic (NH4)2PO4
+TE	Mineral 	Phosphate 	Apatite 
+TE	Mineral 	Phosphate 	Fluorapatite
+TE	Mineral 	Phosphate 	Plumbogummite PbAl3(PO4)2(OH)5-H2O
+TE	Mineral 	Silicate	#21 QULSO Anorthite 
+TE	Mineral 	Silicate	Actinolite
+TE	Mineral 	Silicate	"Actinolite, Talc"
+TE	Mineral 	Silicate	Allophane
+TE	Mineral 	Silicate	Amphibole Actinolite
+TE	Mineral 	Silicate	"Amphibole, Anthophyllite"
+TE	Mineral 	Silicate	Attapulgite
+TE	Mineral 	Silicate	Augite
+TE	Mineral 	Silicate	Beidellite
+TE	Mineral 	Silicate	Beryl 
+TE	Mineral 	Silicate	Calcic Amphibole Actinolite 
+TE	Mineral 	Silicate	Clintonite Ca(Mg2Al)(SiAl3)O10(OH)2
+TE	Mineral 	Silicate	Cordierite Mg2Al4Si5O18 Mg2Al3[Si5AlO18]
+TE	Mineral 	Silicate	Diopside
+TE	Mineral 	Silicate	Enstatite (Websterite)
+TE	Mineral 	Silicate	Enstatite Orthopyroxene Pyroxene
+TE	Mineral 	Silicate	Garnet
+TE	Mineral 	Silicate	Glass Hisingerite 
+TE	Mineral 	Silicate	Gyrolite
+TE	Mineral 	Silicate	Halloysite
+TE	Mineral 	Silicate	Hedenbergite
+TE	Mineral 	Silicate	Hissingerite
+TE	Mineral 	Silicate	Hornblende Kaersutite 
+TE	Mineral 	Silicate	Iddingsite
+TE	Mineral 	Silicate	K-Feldspar
+TE	Mineral 	Silicate	Melilite
+TE	Mineral 	Silicate	Nepheline 
+TE	Mineral 	Silicate	Olivine 
+TE	Mineral 	Silicate	Olivine Fayalite
+TE	Mineral 	Silicate	Olivine Forsterite
+TE	Mineral 	Silicate	Olivine Glass 
+TE	Mineral 	Silicate	Olivine Hyalosiderite 
+TE	Mineral 	Silicate	"Olivine, Fosterite"
+TE	Mineral 	Silicate	Orthopyroxene 
+TE	Mineral 	Silicate	Pigeonite 
+TE	Mineral 	Silicate	Pyroxene
+TE	Mineral 	Silicate	Pyroxene Clinopyroxene Augite 
+TE	Mineral 	Silicate	Pyroxene or Olivine 
+TE	Mineral 	Silicate	Pyroxene Orthopyroxene
+TE	Mineral 	Silicate	Quartz
+TE	Mineral 	Silicate	Sepiolite
+TE	Mineral 	Silicate	Sodalite
+TE	Mineral 	Silicate	Zeolite Clinoptitolite
+TE	Mineral 	Silicate	
+TE	Mineral 	Silicate (Ino)	Actinolite
+TE	Mineral 	Silicate (Ino)	Augite Clinopyroxene Pyroxene 
+TE	Mineral 	Silicate (Ino)	Bronzite Pyroxene Orthopyroxene 
+TE	Mineral 	Silicate (Ino)	Clinopyroxene 
+TE	Mineral 	Silicate (Ino)	Clinopyroxene Pyroxene
+TE	Mineral 	Silicate (Ino)	Enstatite 
+TE	Mineral 	Silicate (Ino)	Glaucophane 
+TE	Mineral 	Silicate (Ino)	Hornblende
+TE	Mineral 	Silicate (Ino)	Opx Standard
+TE	Mineral 	Silicate (Ino)	Orthopyroxene 
+TE	Mineral 	Silicate (Ino)	Pigeonite 
+TE	Mineral 	Silicate (Ino)	Pyroxene
+TE	Mineral 	Silicate (Ino)	Pyroxene Augite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Babingtonite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Bronzite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Aegirine 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Augite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Bustamite
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Diopside 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Endiopside 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Fassaite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Ferrosalite
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Hedenbergite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Omphacite
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Salite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Salite/Fassaite
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Schefferite
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Spodumene
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Urbanite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Clinopyroxene Ureyite
+TE	Mineral 	Silicate (Ino)	Pyroxene Diopside 
+TE	Mineral 	Silicate (Ino)	Pyroxene Endiopside 
+TE	Mineral 	Silicate (Ino)	Pyroxene Enstatite
+TE	Mineral 	Silicate (Ino)	Pyroxene Omphacite
+TE	Mineral 	Silicate (Ino)	Pyroxene Orthopyroxene
+TE	Mineral 	Silicate (Ino)	Pyroxene Orthopyroxene Bronzite 
+TE	Mineral 	Silicate (Ino)	Pyroxene Orthopyroxene Enstatite
+TE	Mineral 	Silicate (Ino)	Pyroxene Orthopyroxene Enstatite; Websterite
+TE	Mineral 	Silicate (Ino)	Pyroxene Orthopyroxene Hypersthene
+TE	Mineral 	Silicate (Ino)	Pyroxene Pigeonite (Magnesian)
+TE	Mineral 	Silicate (Ino)	Pyroxene Rhodonite
+TE	Mineral 	Silicate (Ino)	Pyroxene Wohlerite
+TE	Mineral 	Silicate (Ino)	Pyroxene Wollastonite 
+TE	Mineral 	Silicate (Ino)	Pyroxmangite/Rhodonite
+TE	Mineral 	Silicate (Ino)	Pyrxoene Hiortdahlite 
+TE	Mineral 	Silicate (Ino)	Rhodonite 
+TE	Mineral 	Silicate (Ino)	Riebeckite
+TE	Mineral 	Silicate (Ino)	Shocked Clinopyroxene Pyroxene
+TE	Mineral 	Silicate (Ino)	Tremolite 
+TE	Mineral 	Silicate (Ino)	Wollastonite
+TE	Mineral 	Silicate (Ino) 	Amphibole 
+TE	Mineral 	Silicate (Ino) 	Calcic Amphibole Actinolite 
+TE	Mineral 	Silicate (Ino) 	Calcic Amphibole Actinolite Nephrite
+TE	Mineral 	Silicate (Ino) 	Calcic Amphibole Tremolite
+TE	Mineral 	Silicate (Ino) 	Diopside
+TE	Mineral 	Silicate (Ino) 	Ensatatite
+TE	Mineral 	Silicate (Ino) 	Enstatite 
+TE	Mineral 	Silicate (Ino) 	Hornblende
+TE	Mineral 	Silicate (Ino) 	Pyroxene
+TE	Mineral 	Silicate (Ino) 	Pyroxene Acmite 
+TE	Mineral 	Silicate (Ino) 	Pyroxene Bronzite 
+TE	Mineral 	Silicate (Ino) 	Pyroxene Clinopyroxene Augite 
+TE	Mineral 	Silicate (Ino) 	Pyroxene Clinopyroxene Chromium Diopside
+TE	Mineral 	Silicate (Ino) 	Pyroxene Clinopyroxene Diopside 
+TE	Mineral 	Silicate (Ino) 	Pyroxene Clinopyroxene Diopside (Chrome)
+TE	Mineral 	Silicate (Ino) 	Pyroxene Clinopyroxene Hedenbergite 
+TE	Mineral 	Silicate (Ino) 	Pyroxene Clinpyroxene Diopside
+TE	Mineral 	Silicate (Ino) 	Pyroxene Jadeite
+TE	Mineral 	Silicate (Ino) 	Pyroxene Orthopyroxene
+TE	Mineral 	Silicate (Ino) 	Pyroxene Orthopyroxene Enstatite
+TE	Mineral 	Silicate (Ino) 	Pyroxene Orthopyroxene Hedenbergite 
+TE	Mineral 	Silicate (Ino) 	Pyroxene Orthopyroxene Hypersthene
+TE	Mineral 	Silicate (Ino) 	Tremolite 
+TE	Mineral 	Silicate (Ino) 	Wollastonite
+TE	Mineral 	Silicate (Ino) 	
+TE	Mineral 	Silicate (Iso)	Actinolite
+TE	Mineral 	Silicate (Neso)	Garnet
+TE	Mineral 	Silicate (Neso)	Olivine 
+TE	Mineral 	Silicate (Neso)	Olivine Chrysolite
+TE	Mineral 	Silicate (Neso)	Olivine Fayalite
+TE	Mineral 	Silicate (Neso)	Olivine Ferrohortonolite
+TE	Mineral 	Silicate (Neso)	Olivine Forsterite
+TE	Mineral 	Silicate (Neso)	Olivine Fosterite 
+TE	Mineral 	Silicate (Neso)	Olivine Hortonlite
+TE	Mineral 	Silicate (Neso)	Olivine Hortonolite 
+TE	Mineral 	Silicate (Neso)	Olivine Hortonolite Hyalosiderite 
+TE	Mineral 	Silicate (Neso)	Olivine Hyalosiderite 
+TE	Mineral 	Silicate (Neso)	Sphene Titanite 
+TE	Mineral 	Silicate (Neso) 	Andradite Garnet
+TE	Mineral 	Silicate (Neso) 	Olivine Chrysolite
+TE	Mineral 	Silicate (Neso) 	Olivine Fayalite
+TE	Mineral 	Silicate (Neso) 	Olivine Forsterite
+TE	Mineral 	Silicate (Neso) 	Olivine Montichellite?
+TE	Mineral 	Silicate (Neso) 	Olivine Peridote
+TE	Mineral 	Silicate (Phyllo)	Chlorite
+TE	Mineral 	Silicate (Phyllo)	Illite
+TE	Mineral 	Silicate (Phyllo)	Kaolinite 
+TE	Mineral 	Silicate (Phyllo)	Kaolinite Montmorillinite 
+TE	Mineral 	Silicate (Phyllo)	Pyrophyllite
+TE	Mineral 	Silicate (Phyllo)	Serpentine
+TE	Mineral 	Silicate (Phyllo)	Talc
+TE	Mineral 	Silicate (Phyllo) 	Annite (Biotite)
+TE	Mineral 	Silicate (Phyllo) 	Asbestos Chrysotile 
+TE	Mineral 	Silicate (Phyllo) 	Attapulgite 
+TE	Mineral 	Silicate (Phyllo) 	Berthierine 
+TE	Mineral 	Silicate (Phyllo) 	Biotite 
+TE	Mineral 	Silicate (Phyllo) 	Chamosite 
+TE	Mineral 	Silicate (Phyllo) 	Chlorite
+TE	Mineral 	Silicate (Phyllo) 	Clay Illite 
+TE	Mineral 	Silicate (Phyllo) 	Clay Illite Smectite
+TE	Mineral 	Silicate (Phyllo) 	Clay Kaolinite
+TE	Mineral 	Silicate (Phyllo) 	Clay Montmorillonite
+TE	Mineral 	Silicate (Phyllo) 	Clay Montmorillonite Beidellite 
+TE	Mineral 	Silicate (Phyllo) 	Clay Montmorillonite Bentonite
+TE	Mineral 	Silicate (Phyllo) 	Clay Saponite
+TE	Mineral 	Silicate (Phyllo) 	Cronstedtite
+TE	Mineral 	Silicate (Phyllo) 	Ferrihydrite Montmorillonite 
+TE	Mineral 	Silicate (Phyllo) 	Glauconite
+TE	Mineral 	Silicate (Phyllo) 	Halloysite
+TE	Mineral 	Silicate (Phyllo) 	Hectorite 
+TE	Mineral 	Silicate (Phyllo) 	Illite
+TE	Mineral 	Silicate (Phyllo) 	Illite 2M 
+TE	Mineral 	Silicate (Phyllo) 	Illite-Smectite mixed layer
+TE	Mineral 	Silicate (Phyllo) 	Illite/Smectite 
+TE	Mineral 	Silicate (Phyllo) 	Kaolinite 
+TE	Mineral 	Silicate (Phyllo) 	Kaolinite - well crystalline
+TE	Mineral 	Silicate (Phyllo) 	KGa Kaolinite 
+TE	Mineral 	Silicate (Phyllo) 	Lepidomelane
+TE	Mineral 	Silicate (Phyllo) 	Mica 2M2
+TE	Mineral 	Silicate (Phyllo) 	Montmorillonite 
+TE	Mineral 	Silicate (Phyllo) 	Montmorillonite Bentonite 
+TE	Mineral 	Silicate (Phyllo) 	Muscovite 
+TE	Mineral 	Silicate (Phyllo) 	Nontronite
+TE	Mineral 	Silicate (Phyllo) 	Nontronite Smectite Montmorillonite 
+TE	Mineral 	Silicate (Phyllo) 	Palagonite
+TE	Mineral 	Silicate (Phyllo) 	Pyrophyllite
+TE	Mineral 	Silicate (Phyllo) 	Saponite
+TE	Mineral 	Silicate (Phyllo) 	Sepiolite 
+TE	Mineral 	Silicate (Phyllo) 	Serpentine
+TE	Mineral 	Silicate (Phyllo) 	Serpentine Antigorite 
+TE	Mineral 	Silicate (Phyllo) 	Serpentine Chrysotile 
+TE	Mineral 	Silicate (Phyllo) 	Serpentine Chrysotile Clinochrysotile 
+TE	Mineral 	Silicate (Phyllo) 	Serpentine Cronstedtite 
+TE	Mineral 	Silicate (Phyllo) 	Serpentine Lizardite
+TE	Mineral 	Silicate (Phyllo) 	Serpentine Picrolite
+TE	Mineral 	Silicate (Phyllo) 	Smectite
+TE	Mineral 	Silicate (Phyllo) 	Smectite Na-Montmorillonite 
+TE	Mineral 	Silicate (Phyllo) 	"Smectite, Ca-Montmorillonite"
+TE	Mineral 	Silicate (Phyllo) 	Talc
+TE	Mineral 	Silicate (Phyllo) 	Tochilinite 
+TE	Mineral 	Silicate (Phyllo) 	Vermiculite 
+TE	Mineral 	Silicate (Soro)	Epidote 
+TE	Mineral 	Silicate (Soro)	Ilvaite 
+TE	Mineral 	Silicate (Tecto)	Anorthite 
+TE	Mineral 	Silicate (Tecto)	Buddingtonite 
+TE	Mineral 	Silicate (Tecto)	Bytownite 
+TE	Mineral 	Silicate (Tecto)	Labradorite 
+TE	Mineral 	Silicate (Tecto)	Olivine 
+TE	Mineral 	Silicate (Tecto)	Plagioclase Bytownite 
+TE	Mineral 	Silicate (Tecto)	Plagioclase; Albite 
+TE	Mineral 	Silicate (Tecto)	Prehnite Zeolite
+TE	Mineral 	Silicate (Tecto)	Quartz
+TE	Mineral 	Silicate (Tecto)	Scaporite 
+TE	Mineral 	Silicate (Tecto)	Zeolite 
+TE	Mineral 	Silicate (Tecto)	Zeolite Chabazite 
+TE	Mineral 	Silicate (Tecto)	Zeolite Clinoptilolite
+TE	Mineral 	Silicate (Tecto)	Zeolite Erionite
+TE	Mineral 	Silicate (Tecto)	Zeolite Gismondine
+TE	Mineral 	Silicate (Tecto)	Zeolite Heulandite
+TE	Mineral 	Silicate (Tecto)	Zeolite Laumontite
+TE	Mineral 	Silicate (Tecto)	Zeolite Mesolite
+TE	Mineral 	Silicate (Tecto)	Zeolite Mordenite 
+TE	Mineral 	Silicate (Tecto)	Zeolite Natrolite 
+TE	Mineral 	Silicate (Tecto)	Zeolite Phillipsite 
+TE	Mineral 	Silicate (Tecto)	Zeolite Prehnite
+TE	Mineral 	Silicate (Tecto)	Zeolite Pumpellyite
+TE	Mineral 	Silicate (Tecto)	Zeolite Scolecite 
+TE	Mineral 	Silicate (Tecto)	Zeolite Stilbite
+TE	Mineral 	Silicate (Tecto)	Zeolite Thomsonite
+TE	Mineral 	Silicate (Tecto)	Zeolite Wairakite 
+TE	Mineral 	Silicate (Tecto) 	Feldspar
+TE	Mineral 	Silicate (Tecto) 	Labradorite 
+TE	Mineral 	Silicate (Tecto) 	Orthoclase K-Feldspar 
+TE	Mineral 	Silicate (Tecto) 	Plagioclase Feldspar
+TE	Mineral 	Silicate (Tecto) 	Plagioclase Feldspar Anorthite
+TE	Mineral 	Silicate (Tecto) 	Plagioclase Feldspar Oligoclase 
+TE	Mineral 	Silicate (Tecto) 	Quartz
+TE	Mineral 	Silicate (Tecto) 	Scapolite 
+TE	Mineral 	Silicates(Tecto)	Plagioclase Feldspar Bytownite
+TE	Mineral 	Silicte (Phyllo)	Smectite
+TE	Mineral 	Sulfate	Gypsum CaSO4-2H2O
+TE	Mineral 	Sulfate 	Alunite 
+TE	Mineral 	Sulfate 	Anhydrite 
+TE	Mineral 	Sulfate 	Anhydrite (Calcium Sulfate) 
+TE	Mineral 	Sulfate 	Calcium Sulfate (Gypsum)
+TE	Mineral 	Sulfate 	Calcium Sulfate Dihydrate Gypsum
+TE	Mineral 	Sulfate 	Copiapite 
+TE	Mineral 	Sulfate 	Ferric Amaranthite
+TE	Mineral 	Sulfate 	Ferric Botryogen
+TE	Mineral 	Sulfate 	Ferric Coquimbite 
+TE	Mineral 	Sulfate 	Ferric Hohmannite 
+TE	Mineral 	Sulfate 	Ferric Jarosite 
+TE	Mineral 	Sulfate 	Ferric Sulfate Copiatite
+TE	Mineral 	Sulfate 	Ferric Sulfate Jarosite 
+TE	Mineral 	Sulfate 	Gypsum
+TE	Mineral 	Sulfate 	Jarosite
+TE	Mineral 	Sulfate 	Kieserite 
+TE	Mineral 	Sulfate 	Magnesium Sulfate 
+TE	Mineral 	Sulfide 	Pyrite
+TE	Mineral 	Sulfide 	Synthetic CaS 
+TE	Mineral 	Sulfide 	Synthetic FeS 
+TE	Mineral 	Sulfide 	Synthetic MnS 
+TE	Mineral 	Sulfide 	Synthetic TiS2
+TE	Mineral 	Sulfide 	Troilite
+TE	Mineral 	Sulfide 	Troilite Synthetic
+TE	Mineral 	Sulphate	Alunite
+TE	Mineral 	Sulphate	Amarantite
+TE	Mineral 	Sulphate	Ammonium Sulphate (NH4)2SO4 
+TE	Mineral 	Sulphate	Anhydrite 
+TE	Mineral 	Sulphate	Botryogen 
+TE	Mineral 	Sulphate	Boussingaultite (NH4)2Mg(SO4)2-6(H2O) 
+TE	Mineral 	Sulphate	Copiapite 
+TE	Mineral 	Sulphate	Coquimbite
+TE	Mineral 	Sulphate	Ferrous Ammonium Sulphate (NH4)2FeSO4-6H2O
+TE	Mineral 	Sulphate	Fibroferrite
+TE	Mineral 	Sulphate	Gypsum
+TE	Mineral 	Sulphate	Gypsum Alabaster
+TE	Mineral 	Sulphate	Gypsum Selenite 
+TE	Mineral 	Sulphate	Halotrichite
+TE	Mineral 	Sulphate	hetic Ferric Ammonium Sulphate FeNH4(SO4)2-12H2O
+TE	Mineral 	Sulphate	Hydronium Jarosite
+TE	Mineral 	Sulphate	Jarosite
+TE	Mineral 	Sulphate	Letovicite (NH4)3H(SO4)2
+TE	Mineral 	Sulphate	Mascagnite (NH4)2SO4
+TE	Mineral 	Sulphate	Melanterite 
+TE	Mineral 	Sulphate	Metavoltine 
+TE	Mineral 	Sulphate	Natrojarosite 
+TE	Mineral 	Sulphate	Romerite
+TE	Mineral 	Sulphate	Selenite Gypsum 
+TE	Mineral 	Sulphate	Sideronatrite 
+TE	Mineral 	Sulphate	Volataite 
+TE	Mineral 	Sulphates	Jarosite
+TE	Mineral 	Sulphide	Arsenopyrite
+TE	Mineral 	Sulphide	Bornite 
+TE	Mineral 	Sulphide	Chalcopyrite
+TE	Mineral 	Sulphide	Galena
+TE	Mineral 	Sulphide	Marcasite 
+TE	Mineral 	Sulphide	Pentlandite 
+TE	Mineral 	Sulphide	Pyrite
+TE	Mineral 	Sulphide	Pyrrhotite
+TE	Mineral 	Sulphide	Sphalerite
+TE	Mineral 	Titanate	Perovskite
+TE	Mineral 	Titanate	Perovskite Cerian 
+TE	Mineral 	Titanate	Perovskite Titanate 
+TE	Mineral 		Bastite? Pyroxene?
+TE	Mineral 		Hibonite
+TE	Mineral 		Jeffersonite
+TE	Mineral 		KBr 
+TE	Mineral 		Mansjoite?? Pyroxene? 
+TE	Mineral 		Melilite
+TE	Mineral 		Pyroxene? 
+TE	Mineral 		Schafferite? Pyroxene?
+TE	Mineral 		Schwertmannite
+TE	Mineral 		Violan? Pyroxene? 
+TE	Mineral 		
+TE	Mineral Pwdr	Silicate (Ino) 	Pyroxene Orthopyroxene Enstatite
+TE	Mineral Pwdr	Silicate (Neso)	Olivine 
+TE	Organic 	Extract 	Coal Tar Extract
+TE	Organic 	Plant 	Bitterbrush Leaf
+TE	Organic 	Plant 	California Buckwheat Leaf 
+TE	Organic 	Plant 	Hopsage Leaf
+TE	Organic 	Plant 	Leaf Litter 
+TE	Organic 	Plant 	Mormon Tea Leaf Stem
+TE	Organic 	Plant 	Pinyon Pine Leaf
+TE	Organic 	Plant 	Squaw Tea Leaf
+TE	Organic 	Tar 	Tar Ball
+TE	Organic 		"Asphaltite, 17"
+TE	Organic 		"Asphaltite, 18"
+TE	Organic 		"Asphaltite, 21"
+TE	Organic 		Gilsonite 
+TE	Organic 		Kerite
+TE	Organic 		"Kerite, 11"
+TE	Organic 		"Kerite, 11"
+TE	Organic 		"Kerite, 12"
+TE	Organic 		"Kerite, 12"
+TE	Organic 		"Kerite, 13"
+TE	Organic 		"Kerite, 14"
+TE	Organic 		"Kerite, 15"
+TE	Organic 		"Kerite, 16"
+TE	Organic 		"Kerite, 19"
+TE	Organic 		"Kerite, 20"
+TE	Organic 		"Kerite, 6 "
+TE	Organic 		"Kerite, 6 "
+TE	Pock Powder 	Sedimentary 	Shale 
+TE	Polymer 	Polysiloxane	Er-Yb Silicon Ionomer 
+TE	Polymer 	Polysiloxane	Erbium Silicon Ionomer
+TE	Polymer 	Polysiloxane	Europium Silicon Ionomer
+TE	Polymer 	Polysiloxane	Terbium Silicon Ionomer 
+TE	Polymer 	Polysiloxanes 	Samarium Silicon Ionomer
+TE	Rock	Carbonate 	Aragonite 
+TE	Rock	Coating 	Black stripe
+TE	Rock	Coating 	Desert Varnish
+TE	Rock	Coating 	Desert Varnish Basalt Oxide
+TE	Rock	Coating 	Red & Green 
+TE	Rock	Hydrothermal	Iron Ore
+TE	Rock	Igenous 	Shocked 
+TE	Rock	Igneous	Andesite
+TE	Rock	Igneous	Basalt
+TE	Rock	Igneous	Palagonite
+TE	Rock	Igneous 	Basalt
+TE	Rock	Igneous 	Basalt Coating
+TE	Rock	Igneous 	Basalt Sulfate-Altered
+TE	Rock	Igneous 	Basaltic Andesite 
+TE	Rock	Igneous 	Basaltic Ash
+TE	Rock	Igneous 	Basaltic Ash Rhyolitic
+TE	Rock	Igneous 	Basaltic Glass Ash
+TE	Rock	Igneous 	Diabase 
+TE	Rock	Igneous 	Dunite
+TE	Rock	Igneous 	Felsic
+TE	Rock	Igneous 	Gabbro
+TE	Rock	Igneous 	Harzburgite 
+TE	Rock	Igneous 	Herzolite 
+TE	Rock	Igneous 	Kimberlite
+TE	Rock	Igneous 	Kimberlite Diluted
+TE	Rock	Igneous 	Leucogranite
+TE	Rock	Igneous 	Lherzolite
+TE	Rock	Igneous 	Lherzolite with plagioclases on borders 
+TE	Rock	Igneous 	Lherzolite with spinelles 
+TE	Rock	Igneous 	Mafic 
+TE	Rock	Igneous 	Olivine Pyroxene Chromite 
+TE	Rock	Igneous 	Peridotite
+TE	Rock	Igneous 	Pyroxenite
+TE	Rock	Igneous 	Pyroxenite with CPX 
+TE	Rock	Igneous 	Pyroxenite with grenats 
+TE	Rock	Igneous 	Shocked 
+TE	Rock	Igneous 	Silicic Tuff
+TE	Rock	Igneous 	Ultramafic Microbreccia 
+TE	Rock	Igneous 	Ultramafic Pigeonite
+TE	Rock	Igneous 	Volcanic
+TE	Rock	Igneous 	Volcanic Basalt Coating 
+TE	Rock	Igneous 	Volcanic Cinder Cone
+TE	Rock	Igneous 	Volcanic Coating
+TE	Rock	Igneous 	Welded Ash
+TE	Rock	Igneous 	
+TE	Rock	Igneous Plutonic	Anorthosite 
+TE	Rock	Igneous Plutonic	Bronzitite
+TE	Rock	Igneous Plutonic	Chromite
+TE	Rock	Igneous Plutonic	Gabbro
+TE	Rock	Igneous Plutonic	Gabbro Xenolith 
+TE	Rock	Igneous Plutonic	Gabbronorite
+TE	Rock	Igneous Plutonic	Gabbronorite II 
+TE	Rock	Igneous Plutonic	Granite 
+TE	Rock	Igneous Plutonic	Granodiorite
+TE	Rock	Igneous Plutonic	Granular Harzburgite
+TE	Rock	Igneous Plutonic	Harzburgite 
+TE	Rock	Igneous Plutonic	Olivine Gabbro
+TE	Rock	Igneous Plutonic	Orthoclase K-Feldspar Granite 
+TE	Rock	Igneous Plutonic	Peridotite
+TE	Rock	Igneous Plutonic	Peridotite Garnet Lherzolite
+TE	Rock	Igneous Plutonic	Peridotite Harzburgite
+TE	Rock	Igneous Plutonic	Peridotite Lherzolite 
+TE	Rock	Igneous Plutonic	Peridotite Orthopyroxene
+TE	Rock	Igneous Plutonic	Phyllonite
+TE	Rock	Igneous Plutonic	Plag Cumulate 
+TE	Rock	Igneous Plutonic	Plag Opx Cumulate 
+TE	Rock	Igneous Plutonic	Plagioclase Granite 
+TE	Rock	Igneous Plutonic	Pyroxenite
+TE	Rock	Igneous Plutonic	Serpentinite
+TE	Rock	Igneous Plutonic	
+TE	Rock	Igneous Volcanic	#35 Gast Basalt 
+TE	Rock	Igneous Volcanic	Altered Pillow Lava
+TE	Rock	Igneous Volcanic	Ash 
+TE	Rock	Igneous Volcanic	Basaltic Ash
+TE	Rock	Igneous Volcanic	Basaltic Glass Ash
+TE	Rock	Igneous Volcanic	Basaltic Maar Tuff
+TE	Rock	Igneous Volcanic	Basaltic Tuff 
+TE	Rock	Igneous Volcanic	Cinder
+TE	Rock	Igneous Volcanic	Cinder Cone 
+TE	Rock	Igneous Volcanic	Coating S-phases Fe-Oxide
+TE	Rock	Igneous Volcanic	Glass 
+TE	Rock	Igneous volcanic	Harzburgite 
+TE	Rock	Igneous Volcanic	Ignimbrite Rhyodacite 
+TE	Rock	Igneous Volcanic	Obsidian
+TE	Rock	Igneous Volcanic	Olivine Tholecite 
+TE	Rock	Igneous Volcanic	Palagonite Tuff 
+TE	Rock	Igneous Volcanic	Palagonitic Tuff
+TE	Rock	Igneous Volcanic	Palagonitized Basaltic Tuff 
+TE	Rock	Igneous Volcanic	Palagonitized Maar Tuff 
+TE	Rock	Igneous Volcanic	Palagonitized Tuff
+TE	Rock	Igneous Volcanic	Pumice Fallout
+TE	Rock	Igneous Volcanic	Pumice Rhyolite 
+TE	Rock	Igneous Volcanic	Pumice Tuff Pyroclastic 
+TE	Rock	Igneous Volcanic	Rhyolite
+TE	Rock	Igneous Volcanic	Rhyolite Dome 
+TE	Rock	Igneous Volcanic	Rhyolite tuff 
+TE	Rock	Igneous Volcanic	S-phases
+TE	Rock	Igneous Volcanic	Sideromelane Tuff 
+TE	Rock	Igneous Volcanic	Tephra
+TE	Rock	Igneous Volcanic	Tephra Sulfate-Altered
+TE	Rock	Igneous Volcanic	Tuff Pyroclastic
+TE	Rock	Igneous Volcanic	Welded Ignimbrite 
+TE	Rock	Igneous Volcanic	White Trachyte
+TE	Rock	Igneous Volcanic	
+TE	Rock	Igneous Weathered 	Altered Weathered Volcanic Glass
+TE	Rock	Igneous?	Alunite-Rich
+TE	Rock	Igneous?	Hematite-Rich 
+TE	Rock	Melt	Glass Crushed 
+TE	Rock	Metamorphic 	Amphibolite 
+TE	Rock	Metamorphic 	Anthracite
+TE	Rock	Metamorphic 	Asphalt 
+TE	Rock	Metamorphic 	Bituminous Coal 
+TE	Rock	Metamorphic 	Calcite Molass
+TE	Rock	Metamorphic 	Coal
+TE	Rock	Metamorphic 	Coal Lignite
+TE	Rock	Metamorphic 	Goethite coating
+TE	Rock	Metamorphic 	Impact Melt 
+TE	Rock	Metamorphic 	Jarosite coating
+TE	Rock	Metamorphic 	Kinzigite 
+TE	Rock	Metamorphic 	Marble
+TE	Rock	Metamorphic 	Marble (limestone)
+TE	Rock	Metamorphic 	Oil Sand
+TE	Rock	Metamorphic 	Ophiolite 
+TE	Rock	Metamorphic 	Pseudotachylyte 
+TE	Rock	Metamorphic 	Roddingite
+TE	Rock	Metamorphic 	Schist
+TE	Rock	Metamorphic 	Schist with Andalusite
+TE	Rock	Metamorphic 	Semi-Anthracite 
+TE	Rock	Metamorphic 	Serpentine
+TE	Rock	Metamorphic 	Serpentine Schist 
+TE	Rock	Metamorphic 	Serpentinite
+TE	Rock	Metamorphic 	Shocked 
+TE	Rock	Metamorphic 	Subbituminous Coal
+TE	Rock	Metamorphic 	Talc-Serpentine Schist
+TE	Rock	Metamorphic 	
+TE	Rock	Metamorphic Organic 	Coal Medium-volatility Bituminous 
+TE	Mineral	Phyllosilicate	Illite
+TE	Rock	Pumice	Cyanobacteria
+TE	Rock	Sedimentary	Hydrothermal Springs Carbonate
+TE	Rock	Sedimentary	Hydrothermal Springs Silicate
+TE	Rock	Sedimentary	Limestone
+TE	Rock	Sedimentary	Meta-Travertine Plio-Peistocene
+TE	Rock	Sedimentary	Travertine Modern
+TE	Rock	Sedimentary	Travertine Peistocene
+TE	Rock	Sedimentary	
+TE	Rock	Sedimentary 	Argillite 
+TE	Rock	Sedimentary 	Bauxite 
+TE	Rock	Sedimentary 	Conglomerate
+TE	Rock	Sedimentary 	Diatomaceous Shale
+TE	Rock	Sedimentary 	Ferric oxide coating
+TE	Rock	Sedimentary 	Graphitic Coal
+TE	Rock	Sedimentary 	Highly Graphitic Coal 
+TE	Rock	Sedimentary 	Limestone 
+TE	Rock	Sedimentary 	Limestone Limekiln
+TE	Rock	Sedimentary 	Mud 
+TE	Rock	Sedimentary 	Oil Shale 
+TE	Rock	Sedimentary 	Sandstone 
+TE	Rock	Sedimentary 	Shale 
+TE	Rock	Sedimentary 	Shale (Kerogen) 
+TE	Rock	Silicate	Dickite 
+TE	Rock	Silicate	Hectonite 
+TE	Rock	Silicate (Phyllo) 	Montmorillonite 
+TE	Rock	Standard	W-1 
+TE	Rock	Tufa	Cyanobacteria
+TE	Rock	Tufa	Sand Cyanobacteria
+TE	Rock	Varnish 	Desert Varnish Basalt 
+TE	Rock	Varnish 	Desert Varnish Sandstone
+TE	Rock	Volcanic	Andesite
+TE	Rock	Volcanic	Armored Lapilli 
+TE	Rock	Volcanic	Basalt
+TE	Rock	Volcanic	Basaltic Cinder 
+TE	Rock	Volcanic	Basaltic Tuff 
+TE	Rock	Volcanic	Cinder
+TE	Rock	Volcanic	Cinders 
+TE	Rock	Volcanic	Palagonite Tuff 
+TE	Rock	Volcanic	Red Cinder
+TE	Rock	Volcanic	Rhyolite
+TE	Rock	Volcanic	Rhyolitic Tuff
+TE	Rock	Volcanic	Sideromelane Tuff 
+TE	Rock	Volcanic	Tephra
+TE	Rock	Volcanic	Trachyte
+TE	Rock	Volcanic	Varnished Basalt
+TE	Rock	Volcanic	Weathered Rhyolitic Tuff
+TE	Rock	Weathering Product	Gossan
+TE	Rock		Hackmanite
+TE	Rock		Igneous Volcanic
+TE	Rock		Iron
+TE	Rock		Kaolinite Opalized Slab 
+TE	Rock		Plagioclase 
+TE	Rock		Polishing Grit
+TE	Rock		Pyrrhotite
+TE	Rock		Rock O
+TE	Rock		Varnish 
+TE	Rock Coating		
+TE	Rock Powder 	Igneous 	Acid Ign Rock 
+TE	Rock Powder 	Igneous 	Felsic
+TE	Rock Powder 	Igneous 	Kimberlite
+TE	Rock Powder 	Igneous 	Mafic 
+TE	Rock Powder 	Igneous Plutonic	Gabbro
+TE	Rock Powder 	Igneous Plutonic	Gabbro Shocked
+TE	Rock Powder 	Igneous Plutonic	Granite 
+TE	Rock Powder 	Igneous Plutonic	Tonalite (Quartz Diorite) 
+TE	Rock Powder 	Igneous Volcanic	Cinder
+TE	Rock Powder 	Igneous Volcanic	Ignimbrite Welded Tuff
+TE	Rock Powder 	Igneous Volcanic	Obsidian
+TE	Rock Powder 	Igneous Volcanic	Rhyolite
+TE	Rock Powder 	Igneous Volcanic	Rhyolite Porp 
+TE	Rock Powder 	Igneous Volcanic	Welded Tuff 
+TE	Rock Powder 	Igneous Volcanic	
+TE	Rock Powder 	Metamorphic 	Biotite Schist
+TE	Rock Powder 	Metamorphic 	Eclogite
+TE	Rock Powder 	Metamorphic 	Granite Gneiss
+TE	Rock Powder 	Metamorphic 	Marble
+TE	Rock Powder 	Metamorphic 	Mylonite
+TE	Rock Powder 	Metamorphic 	Plagioclase Horneblende Amphibolite 
+TE	Rock Powder 	Metamorphic 	Quartz Phyllonite 
+TE	Rock Powder 	Metamorphic 	Quartzofeldspathic mylonite 
+TE	Rock Powder 	Metamorphic 	Serpentine Tremolite Schist 
+TE	Rock Powder 	Metamorphic 	Serpentinite
+TE	Rock Powder 	Metamorphic 	
+TE	Rock Powder 	Sedimentary 	Argillite 
+TE	Rock Powder 	Sedimentary 	Limestone 
+TE	Rock Powder 	Sedimentary 	Shale 
+TE	Rock Powder 	Volcanic	Basalt
+TE	Rock Powder 		Gypsum
+TE	Rock Powder 		Hb-Bi-andesin 
+TE	Rock Powder 		Minette 
+TE	Rock Powder 		Sill Biotite Garnet 
+TE	Rock Powder 		Talc Tremolite
+TE	Rock Powder 		Tremolite 
+TE	Rock Powder 		
+TE	Rock Slab 	Sedimentary 	Sandstone 
+TE	Rocks 	Igneous Plutonic	Granodiorite
+TE	Rocks 	Igneous Plutonic	Hornblende gabbro 
+TE	Rocks 	Igneous Plutonic	Phyllonite
+TE	Sediment	Antarctic 	Lake Silicate Carbonate
+TE	Sediment	Antarctic 	
+TE	Sediment	Black Sea Sediment	90R1A 
+TE	Sediment	Deep Ocean	Hematite Akaganeite Clay
+TE	Sediment	Deep Ocean	Hematite Clay 
+TE	Sediment	Metamorphic 	Limestone 
+TE	Sediment	Pelagic 	Nanofossil Ooze 
+TE	Sediment	Pelagic Hemipelagic 	Mud 
+TE	Sediment	Pelatic 	Nanofossil Ooze 
+TE	Sediment	Shale 	Oil Shale 
+TE	Sediment		Playa Sediment
+TE	Soil	Alpine	Volcanic Altered
+TE	Soil	Basaltic	Iron Oxide Silicate Altered Non-Magnetic
+TE	Soil	Basaltic	Iron Oxide Silicate Slightly-Magnetic
+TE	Soil	Beach sand	Sand
+TE	Soil	Coastal 	Volcanic
+TE	Soil	Coastal 	Volcanic Palagonite 
+TE	Soil	Crater	Fe Oxide Silicate
+TE	Soil	Crater	Magnetic
+TE	Soil	Crater	Palagonitic Iron Oxide Silicate
+TE	Soil	Crater	Palagonitic Magnetic
+TE	Soil	Crater	Volcanic
+TE	Soil	Deep-Sea Sediment 	Silica Opal 
+TE	Soil	Desert	Argillized
+TE	Soil	Desert	Carbonate Sand Calcite
+TE	Soil	Desert	Copice Dune Quartz Sand 
+TE	Soil	Desert	Diluted Kimberlite
+TE	Soil	Desert	Diluted Kimberlite Serpentine 
+TE	Soil	Desert	Dune Sand 
+TE	Soil	Desert	Gypsum
+TE	Soil	Desert	Gypsum Sandstone
+TE	Soil	Desert	Hematite-Rich (& Kaolinite-Rich?) 
+TE	Soil	Desert	Kaolinitic
+TE	Soil	Desert	Quartz
+TE	Soil	Desert	Quartz Dune Sand
+TE	Soil	Desert	Quartz Granite Sand 
+TE	Soil	Desert	Quartz Gypsum Sandstone Sand
+TE	Soil	Desert	Sand Sheet Quartz Sand
+TE	Soil	Desert	Sandstone 
+TE	Soil	Desert	Sandstone Limestone 
+TE	Soil	Desert	Sandstone Sand
+TE	Soil	Desert	Star Dune Quartz Sand 
+TE	Soil	Desert	Transverse Dune Quartz Sand 
+TE	Soil	Desert	Volcanic Basaltic Sand
+TE	Soil	Desert	
+TE	Soil	Dry Lake Sediment 	Playa Material
+TE	Soil	Dune Sand 	Sand
+TE	Soil	Dune Sand 	
+TE	Soil	Dune Sands	
+TE	Soil	Hill	Sandy Loam
+TE	Soil	Hydrocarbon Bearing 	Tar Sand
+TE	Soil	Hydrocarbon Bearing 	Tar Sands 
+TE	Soil	Hydrothermal	S-phases
+TE	Soil	Hydrothermal	S-phases Fe-Oxide
+TE	Soil	Igneous	Basalt Iron Oxide Silicate Altered
+TE	Soil	Igneous	Iron Oxide Silicate Altered
+TE	Soil	Igneous Volcanic	Altered Volcanic Soil
+TE	Soil	Igneous volcanic	Basalt cinders
+TE	Soil	Igneous Volcanic	Basalt sand 
+TE	Soil	Igneous Volcanic	Basaltic Tuff 
+TE	Soil	Nodule	
+TE	Soil	Oxide 	Fe Oxide
+TE	Soil	Oxide 	Fe Oxide Sulfate-Altered
+TE	Soil	River Sediment	Sand Clay Organic 
+TE	Soil	River sediment	Silty sand
+TE	Soil	River Sediment	
+TE	Soil	Sand	Dune
+TE	Soil	Sediment	Grey
+TE	Soil	Sediment	Lake
+TE	Soil	Sediment	Playa Deposit 
+TE	Soil	Sediment	Tan 
+TE	Soil	Sedimentary 	Shale 
+TE	Soil	Semi-arid 	Dark red soil 
+TE	Soil	Semi-arid 	Grey/white soil 
+TE	Soil	Semi-arid 	Red soil
+TE	Soil	Semi-arid 	Red/brown soil
+TE	Soil	Sidewalk	Sand
+TE	Soil	Tephra	Altered Volcanic
+TE	Soil	Terrace 	Sand
+TE	Soil	Terrace 	Sandy Loam
+TE	Soil	Tuff	Palagonitic 
+TE	Soil	Volcanic	Andesite ash
+TE	Soil	Volcanic	Ash 
+TE	Soil	Volcanic	Basalt
+TE	Soil	Volcanic	Beach sand
+TE	Soil	Volcanic	Fe Oxide Silicate Magnetic
+TE	Soil	Volcanic	Fe Oxide Silicate Non-Magnetic
+TE	Soil	Volcanic	Highly Magnetic Soil/Tephra 
+TE	Soil	Volcanic	Iron Oxide Silicate 
+TE	Soil	Volcanic	Magnetic
+TE	Soil	Volcanic	Palagonite
+TE	Soil	Volcanic	Palagonitic 
+TE	Soil	Volcanic	Palagonitic Ammonium Leached
+TE	Soil	Volcanic	Palagonitic Ammonium Non-Leached
+TE	Soil	Volcanic	Palagonitic Tuff
+TE	Soil	Volcanic	Palagontic
+TE	Soil	Volcanic	Sulfur
+TE	Soil	Volcanic	Tephra
+TE	Soil	Volcanic	Tephra Magnetic
+TE	Soil	Volcanic	Volcaniclastic Sand 
+TE	Soil	Volcanic	Weathered 
+TE	Soil	Volcanic	
+TE	Soil	Weathered Igneous 	Palagonite Altered Volcanic Glass 
+TE	Soil	Weathered Igneous Volcan	PalagoniteVolcanic Soil 
+TE	Soil		Oxidized
+TE	Soil		Palagonite
+TE	Soil		Red Soil
+TE	Soil		Sand
+TE	Soil		Sun Baked Mud 
+TE	Soil		Volcanic Diatreme (?) 
+TE	Soil		Volcanic Sand 
+TE	Soil		
+TE	Spherule	Sedimentary	Travertine Modern
+TE		Organic 	Asphaltite
+TE		Organic 	Asphaltum 
+TE			#43 T-1 B 
+TE			Albertite 
+TE			Amersil (BC) Qtz
+TE			Anatase 
+TE			Antrharxolite 
+TE			Fe2O3 
+TE			Mars Analogue 
+TE			Nacholite 
+TE			
+XT	Experimental	Achondrite	Acid-treated Brachinite 
+XT	Experimental	Achondrite	Laser Irradiated Diogenite
+XT	Experimental	Achondrite	Laser Irradiated Eucrite
+XT	Experimental	Achondrite	Melted Quenched Eucrite HED Basaltic
+XT	Experimental	Carbonaceous Chondrite	Heated CI1
+XT	Experimental	Chondrite 	Acid-treated R
+XT	Experimental	Enstatite Chondrite 	Heated E4
+XT	Experimental	Sulfide 	Troilite
+XT	Man-Made	Mixture 	10/90 TRO201/MET101 
+XT	Man-Made	Mixture 	Enstatite Oldhamite 
+XT	Meteorite 	Achondrite	Acapulco
+XT	Meteorite 	Achondrite	Acapulco-Type 
+XT	Meteorite 	Achondrite	Acapulcoite 
+XT	Meteorite 	Achondrite	Acapulcoite Lodranite Primitive Achondrite
+XT	Meteorite 	Achondrite	Acapulcoite Primitive Achondrite
+XT	Meteorite 	Achondrite	Angrite 
+XT	Meteorite 	Achondrite	Aubrite 
+XT	Meteorite 	Achondrite	Aubrite (AUB) 
+XT	Meteorite 	Achondrite	Aubrite Enstatite Achondrite
+XT	Meteorite 	Achondrite	Aubrite Rusted
+XT	Meteorite 	Achondrite	Augite Achondrite (ACANOM)
+XT	Meteorite 	Achondrite	Basaltic HED Diogenite
+XT	Meteorite 	Achondrite	Basaltic HED Diogenite Unique 
+XT	Meteorite 	Achondrite	Basaltic HED Eucrite
+XT	Meteorite 	Achondrite	Basaltic HED Eucrite Brecciated 
+XT	Meteorite 	Achondrite	Basaltic HED Eucrite Mg-rich
+XT	Meteorite 	Achondrite	Basaltic HED Eucrite Polymict 
+XT	Meteorite 	Achondrite	Basaltic HED Eucrite Unbrecciated 
+XT	Meteorite 	Achondrite	Basaltic HED Howardite
+XT	Meteorite 	Achondrite	Brachinite
+XT	Meteorite 	Achondrite	Carlisle Lakes Type 
+XT	Meteorite 	Achondrite	Differentiated M-Eucrite
+XT	Meteorite 	Achondrite	Differentiated M-Howardite
+XT	Meteorite 	Achondrite	Differentiated M-Ureilite 
+XT	Meteorite 	Achondrite	Diogenite 
+XT	Meteorite 	Achondrite	Diogenite (ADIO)
+XT	Meteorite 	Achondrite	Diogenite Basaltic
+XT	Meteorite 	Achondrite	Dunite Olivine
+XT	Meteorite 	Achondrite	Eucrite 
+XT	Meteorite 	Achondrite	Eucrite (AEUC)
+XT	Meteorite 	Achondrite	Eucrite Basaltic
+XT	Meteorite 	Achondrite	Eucrite HED Basaltic
+XT	Meteorite 	Achondrite	HED Diogenite 
+XT	Meteorite 	Achondrite	HED Eucrite 
+XT	Meteorite 	Achondrite	HED Eucrite Monomict
+XT	Meteorite 	Achondrite	HED Howardite 
+XT	Meteorite 	Achondrite	Howardite (AHOW)
+XT	Meteorite 	Achondrite	Lodranite 
+XT	Meteorite 	Achondrite	Lodranite Primitive Achondrite
+XT	Meteorite 	Achondrite	Monomict Eucrite HED Basaltic 
+XT	Meteorite 	Achondrite	Polymict Eucrite HED Basaltic 
+XT	Meteorite 	Achondrite	Transitional Acapulcoite Lodranite
+XT	Meteorite 	Achondrite	Unique
+XT	Meteorite 	Achondrite	Ureilite
+XT	Meteorite 	Carbonaceous	"CM, Primitive, 2"
+XT	Meteorite 	Carbonaceous Chondrite	C2
+XT	Meteorite 	Carbonaceous Chondrite	C2 Unusual
+XT	Meteorite 	Carbonaceous Chondrite	C2R 
+XT	Meteorite 	Carbonaceous Chondrite	C4
+XT	Meteorite 	Carbonaceous Chondrite	C5
+XT	Meteorite 	Carbonaceous Chondrite	CI
+XT	Meteorite 	Carbonaceous Chondrite	CI Unusual
+XT	Meteorite 	Carbonaceous Chondrite	CK4 
+XT	Meteorite 	Carbonaceous Chondrite	CK5 
+XT	Meteorite 	Carbonaceous Chondrite	CK5-6 
+XT	Meteorite 	Carbonaceous Chondrite	CK6 
+XT	Meteorite 	Carbonaceous Chondrite	CM
+XT	Meteorite 	Carbonaceous Chondrite	CM or CR
+XT	Meteorite 	Carbonaceous Chondrite	CM Unusual
+XT	Meteorite 	Carbonaceous Chondrite	CM2 
+XT	Meteorite 	Carbonaceous Chondrite	CO3 
+XT	Meteorite 	Carbonaceous Chondrite	CR2 
+XT	Meteorite 	Carbonaceous Chondrite	CV3 
+XT	Meteorite 	Carbonaceous Chondrite	CV3 CAI Inclusion 
+XT	Meteorite 	Carbonaceous Chondrite	Unusual CI/CM 
+XT	Meteorite 	Carbonaceous Chrondrite 	CM2 
+XT	Meteorite 	Carbonaecous Chondrite	CI
+XT	Meteorite 	Carboneceous chondrite	CO3 
+XT	Meteorite 	Chondrite 	CM2 
+XT	Meteorite 	Chondrite 	H5
+XT	Meteorite 	Chondrite 	L4
+XT	Meteorite 	Chondrite 	R 
+XT	Meteorite 	Chondrite 	
+XT	Meteorite 	Enstatite Chondrite 	E4
+XT	Meteorite 	Enstatite Chondrite 	E5
+XT	Meteorite 	Enstatite Chondrite 	E6
+XT	Meteorite 	Enstatite Chondrite 	E7
+XT	Meteorite 	Iron	? with silicate inclusions
+XT	Meteorite 	Iron	Coarse Octahedrite IAB
+XT	Meteorite 	Iron	Course Octahedrite
+XT	Meteorite 	Iron	"Finest Octahedrite, Plessitic(0.15mm) IRANOM"
+XT	Meteorite 	Iron	IA
+XT	Meteorite 	Iron	IAB 
+XT	Meteorite 	Iron	IAB Silicate Inclusion
+XT	Meteorite 	Iron	Iranom
+XT	Meteorite 	Iron	Medium Octahedrite IIIAB
+XT	Meteorite 	Iron	Ni-rich Ataxite (IRANOM)
+XT	Meteorite 	Iron	
+XT	Meteorite 	"Iron, IA"	Metal 
+XT	Meteorite 	Lunar 	Gabbroic
+XT	Meteorite 	Oliv-Bronzite Chondrite 	H3-4
+XT	Meteorite 	Ordinary Chondrite	Amphoterite LL3 
+XT	Meteorite 	Ordinary Chondrite	Amphoterite LL4 
+XT	Meteorite 	Ordinary Chondrite	Amphoterite LL5 
+XT	Meteorite 	Ordinary Chondrite	Amphoterite LL6 
+XT	Meteorite 	Ordinary Chondrite	Anomalous M-F-Chondrite (CHANOM)
+XT	Meteorite 	Ordinary Chondrite	CM2 
+XT	Meteorite 	Ordinary Chondrite	CO3 
+XT	Meteorite 	Ordinary Chondrite	CV3 
+XT	Meteorite 	Ordinary Chondrite	H 
+XT	Meteorite 	Ordinary Chondrite	H3
+XT	Meteorite 	Ordinary Chondrite	H3-4
+XT	Meteorite 	Ordinary Chondrite	H4
+XT	Meteorite 	Ordinary Chondrite	H5
+XT	Meteorite 	Ordinary Chondrite	"H5, Olivine-Bronzite"
+XT	Meteorite 	Ordinary Chondrite	H5-6
+XT	Meteorite 	Ordinary Chondrite	H6
+XT	Meteorite 	Ordinary Chondrite	L3
+XT	Meteorite 	Ordinary Chondrite	L3.4
+XT	Meteorite 	Ordinary Chondrite	L4
+XT	Meteorite 	Ordinary Chondrite	L5
+XT	Meteorite 	Ordinary Chondrite	L6
+XT	Meteorite 	Ordinary Chondrite	LL3 
+XT	Meteorite 	Ordinary Chondrite	LL4 
+XT	Meteorite 	Ordinary Chondrite	LL6 
+XT	Meteorite 	Ordinary Chondrite	Olivine-Bronzite Chondrite H3 
+XT	Meteorite 	Ordinary Chondrite	Olivine-Bronzite Chondrite H4 
+XT	Meteorite 	Ordinary Chondrite	Olivine-Bronzite Chondrite H5 
+XT	Meteorite 	Ordinary Chondrite	Olivine-Bronzite Chondrite H6 
+XT	Meteorite 	Ordinary Chondrite	Olivine-Hypersthene Chondrite L4
+XT	Meteorite 	Ordinary Chondrite	Olivine-Hypersthene Chondrite L5
+XT	Meteorite 	Ordinary Chondrite	Olivine-Hypersthene Chondrite L6
+XT	Meteorite 	Ordinary Chondrite	
+XT	Meteorite 	Ordinary Chondrites 	Anomalous M-F-Chondrite CHANOM
+XT	Meteorite 	Planetary 	Chassignite (ACANOM) Martian
+XT	Meteorite 	Planetary 	Lunar 
+XT	Meteorite 	Planetary 	Martian 
+XT	Meteorite 	Planetary 	Nakhlite (ACANOM) Martian 
+XT	Meteorite 	Planetary 	Nakhlite Martian
+XT	Meteorite 	Planetary 	Orthopyroxenite Martian 
+XT	Meteorite 	Planetary 	Shergottite 
+XT	Meteorite 	Planetary 	Shergottite Martian 
+XT	Meteorite 	Planetary Achondrite	Anomalous (ACANOM)
+XT	Meteorite 	Primitive Achondrite	Brachinite
+XT	Meteorite 	Stone 	"Achondrite, AEUC"
+XT	Meteorite 	Stone 	Anomalous 
+XT	Meteorite 	Stone 	"Carbonaceous Chondrite, type III (CV3)"
+XT	Meteorite 	Stone 	"Chondrite, CHANOM "
+XT	Meteorite 	Stone 	H5
+XT	Meteorite 	Stone 	L4
+XT	Meteorite 	Stone 	L5
+XT	Meteorite 	Stone 	L6
+XT	Meteorite 	Stone 	LL5 
+XT	Meteorite 	Stone 	LL6 
+XT	Meteorite 	Stone 	Nakhlite
+XT	Meteorite 	Stony-iron	Lodranite (LOD) 
+XT	Meteorite 	Stony-Iron	Mesosiderite
+XT	Meteorite 	Stony-iron	Mesosiderite (MES)
+XT	Meteorite 	Stony-Iron	Pallasite 
+XT	Meteorite 	Stony-Iron	Unique
+XT	Meteorite 		Lodranite 
+XT	Meteorite 		Troilite
+XT	Meteorite 		
+XT	Meteorite	Ordinary Chondrite	C2
+XT	Meteorite	Ordinary Chondrite	CI
+XT	Meteorite	Ordinary Chondrite	CV3 
+XT	Meteorite	Carbonaceous Chondrite	CK5 
+XT	Meteorite	Carbonaceous Chondrite	C2
+XT	Meteorite 	Ordinary Chondrite	L5
+XT	Mineral 	Metal 	Iron Nicket Fe Ni Aubrite 
+XT	Mineral 	Silicate	Hypersthene 
+XT	Mineral 	Sulfide 	Aubrite 
+XT	Mineral 	Sulfide 	Oldhamite CaS 
+XT	Mineral 	Sulphide	Troilite
+			Rock H Spot 1 
